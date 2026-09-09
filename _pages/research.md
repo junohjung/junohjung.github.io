@@ -89,7 +89,7 @@ For my master’s thesis, I extended the Zonal Flow Solver’s fully coupled Rey
 In a turbulent flat-plate boundary layer, the method agreed with reference data after an adjustment distance of approximately two incoming boundary-layer thicknesses. I then applied the implementation to a launcher configuration with backward-facing-step separation. The contribution addresses a practical challenge in turbulent-flow simulation: coupling regions with different mesh resolutions and turbulence treatments.
 
 <figure class="research-figure project-video">
-<video controls playsinline preload="none" width="1596" height="1000" poster="/images/zonal-bfs-poster.jpg" aria-label="Zonal RANS–LES simulation of a turbulent backward-facing-step flow" aria-describedby="zonal-video-caption">
+<video controls autoplay muted playsinline preload="auto" width="1596" height="1000" poster="/images/zonal-bfs-poster.jpg" aria-label="Zonal RANS–LES simulation of a turbulent backward-facing-step flow" aria-describedby="zonal-video-caption">
 <source src="/videos/zonal-bfs.mp4" type="video/mp4">
 Your browser does not support embedded video. <a href="/videos/zonal-bfs.mp4">Download the simulation video</a>.
 </video>
