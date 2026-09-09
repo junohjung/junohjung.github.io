@@ -13,7 +13,7 @@
 ## Education
 
 <div class="cv-entry"><div class="date">2019–2024</div><div><h3>Ph.D. in Mechanical Engineering</h3><p>University of Michigan<br>Advisor: Aaron Towne<br>Thesis: <em>Resolvent-based Estimation and Control of Aerodynamic Flows</em></p></div></div>
-<div class="cv-entry"><div class="date">2014–2018</div><div><h3>M.S. in Aerospace Engineering</h3><p>RWTH Aachen University<br>Advisor: Wolfgang Schroeder<br>Thesis: <em>Development of a fully coupled zonal RANS/LES method for the simulation of a turbulent backward-facing step flow</em></p></div></div>
+<div class="cv-entry"><div class="date">2014–2018</div><div><h3>M.S. in Aerospace Engineering</h3><p>RWTH Aachen University<br>Advisor: Wolfgang Schroeder<br>Thesis: <a href="https://doi.org/10.18154/RWTH-2020-07411"><em>Development of a fully coupled zonal RANS/LES method for the simulation of a turbulent backward-facing step flow</em></a><br><a href="/research/#zonal-rans-les">Completed project &amp; simulation video</a></p></div></div>
 <div class="cv-entry"><div class="date">2008–2014</div><div><h3>B.S. in Mechanical and System Design Engineering</h3><p>Hongik University<br>Cumulative rank: 1/166 (highest graduating rank in the department).</p></div></div>
 
 ## Research support
@@ -37,4 +37,3 @@
 <div class="cv-entry"><div class="date">2024–2026</div><div><h3>Abstract reviewer</h3><p>AIAA SciTech (Fluid Dynamics: Flow Control; Applied Aerodynamics)</p></div></div>
 
 [Teaching and mentoring](/teaching-talks/) · [Full publication list](/publications/)
-

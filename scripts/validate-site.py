@@ -20,7 +20,7 @@ class Page(HTMLParser):
             self.ids.add(attrs["id"])
         if tag == "link" and attrs.get("rel") == "stylesheet":
             self.styles.append(attrs.get("href", ""))
-        self.refs.extend(attrs[key] for key in ("href", "src") if attrs.get(key))
+        self.refs.extend(attrs[key] for key in ("href", "src", "poster") if attrs.get(key))
 
 
 root = Path(sys.argv[1] if len(sys.argv) > 1 else "dist").resolve()
