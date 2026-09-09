@@ -3,7 +3,7 @@
 Academic Pages 기반의 영어 연구자 웹사이트입니다. **현재 비공개 검토용**입니다.
 
 - GitHub 저장소: https://github.com/junohjung/junohjung.github.io (Private)
-- 비공개 미리보기: https://junoh-jung-research.green-cow-6910.chatgpt.site (소유자 로그인 필요)
+- 비공개 미리보기: https://junoh-jung-research.junohj.chatgpt.site (소유자 로그인 필요)
 - GitHub Pages 공개 배포는 내려져 있습니다. 자동 배포 워크플로는 없습니다.
 - `robots.txt`와 `noindex`는 검색 노출 방지용이며 접근 제어가 아닙니다. 미리보기 접근 제어는 Sites가 담당합니다.
 
@@ -34,7 +34,8 @@ bundle install
 bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
 
-일반 빌드: `bundle exec jekyll build`. 비공개 미리보기 빌드: `bundle exec jekyll build --config _config.yml,_config.preview.yml`.
+일반 빌드: `bundle exec jekyll build`. 비공개 미리보기 빌드: `bash scripts/build-private.sh`.
+배포용 빌드 전에는 로컬 미리보기 서버를 종료하여 자동 재생성으로 출력이 덮어써지지 않도록 합니다.
 출력은 `dist/`이며 Git에는 포함되지 않습니다. `.openai/hosting.json`은 비공개 Sites 미리보기 설정입니다.
 
 ## 자료와 확인 사항
