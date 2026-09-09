@@ -4,7 +4,7 @@ title: Junoh Jung
 name: Junoh Jung
 description: "Computational fluid dynamics, scientific machine learning, and high-performance computing."
 url: "https://junohjung.github.io"
-baseurl: "https://junohjung.github.io"
+baseurl: ""
 repository: junohjung/junohjung.github.io
 private_preview: true
 author:
