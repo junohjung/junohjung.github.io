@@ -1,0 +1,5 @@
+<div class="publication" id="{{ include.paper.slug }}"><div class="pub-year">{{ include.paper.year }}</div><div>
+<h3>{% if include.paper.doi %}<a href="{{ include.paper.doi }}">{{ include.paper.title }}</a>{% else %}{{ include.paper.title }}{% endif %}</h3>
+<p class="pub-authors">{{ include.paper.authors | replace: 'Jung, J.', '<strong>Jung, J.</strong>' }}</p>
+<p class="pub-venue">{% if include.paper.venue %}<em>{{ include.paper.venue }}</em>{% endif %}{% if include.paper.details %}, {{ include.paper.details }}{% endif %}{% if include.paper.status != 'Published' %} <span class="status">{{ include.paper.status }}</span>{% endif %}</p>
+{% if include.paper.doi or include.paper.manuscript or include.paper.code %}<p class="pub-links">{% if include.paper.doi %}<a href="{{ include.paper.doi }}">DOI</a>{% endif %}{% if include.paper.manuscript %}<a href="{{ include.paper.manuscript }}">Manuscript</a>{% endif %}{% if include.paper.code %}<a href="{{ include.paper.code }}">Code</a>{% endif %}</p>{% endif %}</div></div>

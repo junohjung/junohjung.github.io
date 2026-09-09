@@ -1,0 +1,8 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.url != '/' %}{{ page.title | escape }} · {% endif %}Junoh Jung</title>
+<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+{% if site.private_preview %}<meta name="robots" content="noindex, nofollow">{% endif %}
+<meta name="theme-color" content="#17364a">
+<link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/junoh.css' | relative_url }}">

@@ -1,0 +1,52 @@
+locale: en-US
+site_theme: default
+title: Junoh Jung
+name: Junoh Jung
+description: "Computational fluid dynamics, scientific machine learning, and high-performance computing."
+url: "https://junohjung.github.io"
+baseurl: "https://junohjung.github.io"
+repository: junohjung/junohjung.github.io
+private_preview: true
+author:
+  name: Junoh Jung
+  avatar: portrait.jpg
+  bio: Postdoctoral Appointee
+  employer: Argonne National Laboratory
+  location: Lemont, Illinois
+  email: jjung@anl.gov
+  github: junohjung
+  linkedin: junoh-j
+atom_feed:
+  hide: true
+analytics:
+  provider: false
+breadcrumbs: false
+future: true
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+include: [_pages]
+exclude: [README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, scripts, .bundle, .openai, dist, tmp, package.json, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
+destination: dist
+collections:
+  publications:
+    output: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins: [jekyll-redirect-from]
+timezone: America/Chicago
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
