@@ -21,6 +21,16 @@
 
 ## Theses
 
+<article class="publication" id="phd-thesis">
+<div class="pub-year">2024</div>
+<div>
+<h3><a href="https://doi.org/10.7302/25058">Resolvent-based Estimation and Control of Aerodynamic Flows</a></h3>
+<p class="pub-authors">Junoh Jung</p>
+<p class="pub-venue">Ph.D. dissertation, Mechanical Engineering · University of Michigan</p>
+<p class="pub-links"><a href="https://hdl.handle.net/2027.42/196122">Dissertation (Deep Blue)</a><a href="https://doi.org/10.7302/25058">DOI</a></p>
+</div>
+</article>
+
 <article class="publication" id="masters-thesis">
 <div class="pub-year">2018</div>
 <div>

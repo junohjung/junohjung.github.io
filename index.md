@@ -21,13 +21,6 @@ I develop hybrid physics–machine-learning methods for PDE simulations and reso
 
 As sole principal investigator, I lead an Argonne LDRD project on **agent-orchestrated multi-fidelity workflows for stable hybrid physics–machine-learning simulations** (April–September 2026). I also lead an ALCF allocation for differentiable hybrid physics–machine-learning simulations.
 
-<aside class="completed-project-highlight" aria-labelledby="completed-project-heading">
-<p class="eyebrow" id="completed-project-heading">Selected completed project</p>
-<h3><a href="/research/#zonal-rans-les">Fully coupled zonal RANS–LES</a></h3>
-<p>Coupling turbulence models across overlapping meshes for separated-flow simulation. Master’s research at RWTH Aachen University, completed in 2018.</p>
-<a href="/research/#zonal-rans-les">Explore the project and simulation video</a>
-</aside>
-
 ## Selected publications
 
 {% assign selected = site.publications | where: "selected", true | sort: "year" | reverse %}
