@@ -5,9 +5,9 @@ title: "Junoh Jung"
 excerpt: "Computational fluid dynamics, scientific machine learning, and high-performance computing."
 ---
 <p class="eyebrow">Computational science &amp; fluid mechanics</p>
-<p class="lead">Connecting physics, learning, and computation to understand and predict fluid flows.</p>
+<p class="lead">Connecting physics, machine learning, and computation to understand, predict and control fluid flows.</p>
 
-I am a Postdoctoral Appointee in the **Mathematics and Computer Science Division at Argonne National Laboratory**, working with Emil Constantinescu and Bethany Lusch. My research combines computational fluid dynamics, scientific machine learning, and high-performance computing.
+I am a Postdoctoral Appointee in the **Mathematics and Computer Science Division at Argonne National Laboratory**, working with Emil Constantinescu (supervisor) and Bethany Lusch (mentor). My research combines computational fluid dynamics, scientific machine learning, and high-performance computing.
 
 I develop hybrid physics–machine-learning methods for PDE simulations and resolvent-based tools for estimating and controlling aerodynamic flows. I received my Ph.D. in Mechanical Engineering from the University of Michigan in 2024, advised by Aaron Towne.
 
@@ -15,7 +15,7 @@ I develop hybrid physics–machine-learning methods for PDE simulations and reso
 
 ## Research directions
 
-<div class="research-overview"><a href="/research/#differentiable-simulation"><span class="research-index">01</span><h3>Differentiable simulation</h3><p>Learned corrections that work with the structure of numerical PDE solvers.</p></a><a href="/research/#physics-integrated-learning"><span class="research-index">02</span><h3>Physics-integrated learning</h3><p>Physical models and machine learning for reconstruction and scalable simulation.</p></a><a href="/research/#flow-estimation-and-control"><span class="research-index">03</span><h3>Flow estimation &amp; control</h3><p>Resolvent-based tools for aerodynamic flows, from airfoils to wakes and jets.</p></a></div>
+<div class="research-overview"><a href="/research/#differentiable-simulation"><span class="research-index">01</span><h3>Differentiable hybrid physics-ML simulation</h3><p>Learned corrections that work with the structure of numerical PDE solvers.</p></a><a href="/research/#physics-integrated-learning"><span class="research-index">02</span><h3>Physics-integrated flow reconstruction</h3><p>Physical models and B-spline approximation for reconstruction of flow data.</p></a><a href="/research/#flow-estimation-and-control"><span class="research-index">03</span><h3>Flow estimation &amp; control</h3><p>Resolvent-based tools for aerodynamic flows, from airfoils to wakes and jets.</p></a></div>
 
 ## Current work
 
