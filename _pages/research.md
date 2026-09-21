@@ -89,14 +89,14 @@ For my master’s thesis, I extended the Zonal Flow Solver’s fully coupled Rey
 In a turbulent flat-plate boundary layer, the method agreed with reference data after an adjustment distance of approximately two incoming boundary-layer thicknesses. I then applied the implementation to a launcher configuration with backward-facing-step separation. The contribution addresses a practical challenge in turbulent-flow simulation: coupling regions with different mesh resolutions and turbulence treatments.
 
 <figure class="research-figure project-video">
-<video controls autoplay muted playsinline preload="auto" width="1596" height="1000" poster="/images/zonal-bfs-poster.jpg" aria-label="Zonal RANS–LES simulation of a turbulent backward-facing-step flow" aria-describedby="zonal-video-caption">
-<source src="/videos/zonal-bfs.mp4" type="video/mp4">
-Your browser does not support embedded video. <a href="/videos/zonal-bfs.mp4">Download the simulation video</a>.
+<video controls autoplay muted playsinline preload="auto" width="1596" height="1180" poster="/images/zonal-bfs-poster.jpg?v=attributed-2018" aria-label="Zonal RANS–LES simulation of a turbulent backward-facing-step flow" aria-describedby="zonal-video-caption">
+<source src="/videos/zonal-bfs.mp4?v=attributed-2018" type="video/mp4">
+Your browser does not support embedded video. <a href="/videos/zonal-bfs.mp4?v=attributed-2018">Download the simulation video</a>.
 </video>
-<figcaption id="zonal-video-caption">Streamwise velocity <em>u</em> in the launcher-type backward-facing-step configuration. The animation shows an unsteady low-speed region downstream of the step. Original simulation visualization from my master’s research; no audio.</figcaption>
+<figcaption id="zonal-video-caption">Streamwise velocity <em>u</em> in the launcher-type backward-facing-step configuration. The animation shows an unsteady low-speed region downstream of the step. Simulation visualization from my master’s research. Junoh Jung, RWTH Aachen University (2018); no audio.</figcaption>
 </figure>
 
-<p class="project-links"><a href="https://publications.rwth-aachen.de/record/794112/files/794112.pdf">Read the master’s thesis (PDF)</a><a href="/videos/zonal-bfs.mp4" download>Download video (MP4, 2.3 MB)</a></p>
+<p class="project-links"><a href="https://publications.rwth-aachen.de/record/794112/files/794112.pdf">Read the master’s thesis (PDF)</a><a href="/videos/zonal-bfs.mp4?v=attributed-2018" download>Download video (MP4)</a></p>
 
 <p class="thesis-citation">Junoh Jung (2018). <em>Development of a fully coupled zonal RANS/LES method for the simulation of a turbulent backward-facing step flow.</em> Master’s thesis, RWTH Aachen University. Advisor: Wolfgang Schroeder. <a href="https://doi.org/10.18154/RWTH-2020-07411">Thesis record / DOI</a>.</p>
 
