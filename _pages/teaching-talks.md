@@ -174,12 +174,4 @@ title: "Teaching & talks"
   <p>2021 · XXV ICTAM Conference · Oral presentation</p>
 </div>
 
-<h2 id="additional-presentations">Additional presentation</h2>
-
-<!-- Retained from the supplied teaching-talks.md. This entry is not listed in the September 2026 CV; no coauthors, presentation format, or status have been inferred. -->
-<div class="talk" id="talk-2026-ksea">
-  <h3>Toward machine-learning-augmented resolvent-based estimation</h3>
-  <p>2026 · KSEA MRC 26</p>
-</div>
-
 [Curriculum vitae](/cv/) · [Publications](/publications/)
