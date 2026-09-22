@@ -2,13 +2,15 @@
 layout: single
 permalink: /research/
 title: "Research"
+excerpt: "Physics-based modeling, scientific machine learning, and high-performance computing for fluid-flow simulation, reconstruction, estimation, and control."
 ---
 
-<p class="lead">Computational methods for predicting and controlling fluid flows.</p>
+<p class="eyebrow">Fluid mechanics &amp; scientific machine learning</p>
+<p class="lead">Integrating physics and machine learning to model, predict, and control fluid flows.</p>
 
-My research in computational fluid dynamics focuses on accurate, efficient prediction and control of fluid flows. I develop methods that combine physics-based modeling, scientific machine learning, and high-performance computing, with applications to separated flows, airfoil wakes, and turbulent jets.
+I develop computational methods for accurate and efficient fluid-flow simulation, prediction, and control. My research combines physics-based modeling, scientific machine learning, and high-performance computing, with a focus on scalable, differentiable hybrid physics–machine-learning simulations.
 
-My work spans three complementary directions: scalable and multi-fidelity flow simulation; physics-informed flow reconstruction; and flow estimation and control. Together, these directions address how to simulate flows efficiently, reconstruct flow fields from data, and use flow dynamics and measurements for estimation and control.
+My work spans three complementary directions: scalable and multi-fidelity flow simulation; physics-informed flow reconstruction; and flow estimation and control. Together, these directions address how to simulate flows efficiently, reconstruct flow fields from data, and use flow dynamics and measurements for estimation and control. Applications include separated flows, airfoil wakes, and turbulent jets.
 
 <section class="research-topic" markdown="1">
 

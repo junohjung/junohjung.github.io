@@ -2,15 +2,17 @@
 layout: single
 permalink: /
 title: "Junoh Jung"
-excerpt: "Computational fluid dynamics, scientific machine learning, and high-performance computing for flow prediction and control."
+excerpt: "Integrating physics and machine learning to model, predict, and control fluid flows."
 ---
 
-<p class="eyebrow">Fluid mechanics &amp; computational science</p>
-<p class="lead">Computational methods for predicting and controlling fluid flows.</p>
+<p class="eyebrow">Fluid mechanics &amp; scientific machine learning</p>
+<p class="lead">Integrating physics and machine learning to model, predict, and control fluid flows.</p>
 
-I am a Postdoctoral Appointee in the **Mathematics and Computer Science Division at Argonne National Laboratory**, working with Emil Constantinescu (supervisor) and Bethany Lusch (mentor). My research in computational fluid dynamics combines physics-based modeling, scientific machine learning, and high-performance computing for accurate, efficient prediction and control of fluid flows.
+I am a Postdoctoral Appointee in the **Mathematics and Computer Science Division at Argonne National Laboratory**, working with Emil Constantinescu (supervisor) and Bethany Lusch (mentor).
 
-I develop differentiable hybrid physics–machine-learning simulations, physics-informed methods for flow reconstruction, and resolvent-based tools for flow estimation and control. My work also includes adaptive multi-fidelity workflows and earlier development of a fully coupled zonal RANS–LES method for separated turbulent flows.
+I develop computational methods for accurate and efficient fluid-flow simulation, prediction, and control. My research combines physics-based modeling, scientific machine learning, and high-performance computing, with a focus on scalable, differentiable hybrid physics–machine-learning simulations.
+
+My work also spans physics-informed flow reconstruction and resolvent-based flow estimation and control. It includes adaptive multi-fidelity workflows and earlier development of a fully coupled zonal RANS–LES method for separated turbulent flows.
 
 I received my Ph.D. in Mechanical Engineering from the University of Michigan in 2024, advised by Aaron Towne.
 

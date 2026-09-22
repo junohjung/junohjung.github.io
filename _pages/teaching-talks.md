@@ -2,6 +2,7 @@
 layout: single
 permalink: /teaching-talks/
 title: "Teaching & talks"
+excerpt: "Junoh Jung's teaching and mentoring experience, with talks on fluid mechanics, scientific machine learning, and high-performance computing."
 ---
 
 <p class="section-intro">Teaching, mentoring, invited talks, and presentations. Forthcoming engagements are marked separately from completed presentations.</p>

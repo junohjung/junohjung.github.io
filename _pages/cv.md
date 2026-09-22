@@ -2,13 +2,14 @@
 layout: single
 permalink: /cv/
 title: "Curriculum vitae"
+excerpt: "Junoh Jung's research profile, appointments, education, funding, and service in fluid mechanics, scientific machine learning, and high-performance computing."
 ---
 
 <p class="action-links"><a class="primary-link" href="/files/CV_Jung_Sep2026_public.pdf">Download CV (PDF)</a><span class="section-intro">September 2026</span></p>
 
 ## Research profile
 
-Computational scientist developing hybrid physics–machine learning methods that integrate differentiable simulation and high-performance computing (HPC) to accelerate physics-based simulations and enable accurate, scalable modeling, prediction, and control of complex fluid systems.
+Computational scientist integrating physics-based modeling, scientific machine learning, and high-performance computing (HPC) for accurate, efficient modeling, prediction, and control of fluid flows. Research spans scalable, differentiable hybrid physics–machine-learning simulations, physics-informed flow reconstruction, and resolvent-based flow estimation and control.
 
 ## Academic appointments and research experience
 

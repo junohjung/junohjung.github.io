@@ -2,6 +2,7 @@
 layout: single
 permalink: /publications/
 title: "Publications"
+excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific machine learning, and flow estimation and control."
 ---
 
 <p class="section-intro">Journal articles, preprints, conference papers, proceedings and abstracts, manuscripts in preparation, and theses. <a href="https://scholar.google.com/citations?user=CN8U92sAAAAJ">Google Scholar</a></p>
