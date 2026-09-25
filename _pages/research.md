@@ -152,8 +152,8 @@ Collaborative contributions include [Towards resolvent-based estimation and cont
 Four surface sensors and four actuators suppress unsteady wake fluctuations using nested resolvent-based controllers. Controller A is designed around the original mean flow; Controller B accounts for the mean flow modified by Controller A.
 
 <figure class="research-figure control-comparison">
-  <video controls controlslist="nodownload" autoplay muted playsinline preload="metadata" width="1920" height="1080" poster="/images/jfm2025-airfoil-control-poster.jpg?v=short-credit" aria-label="Synchronized airfoil flow visualization and lift and drag response" aria-describedby="airfoil-control-caption">
-    <source src="/videos/jfm2025-airfoil-control-comparison.mp4?v=short-credit" type="video/mp4">
+  <video controls controlslist="nodownload" autoplay muted playsinline preload="metadata" width="1920" height="1080" poster="/images/jfm2025-airfoil-control-poster.jpg?v=corner-credit" aria-label="Synchronized airfoil flow visualization and lift and drag response" aria-describedby="airfoil-control-caption">
+    <source src="/videos/jfm2025-airfoil-control-comparison.mp4?v=corner-credit" type="video/mp4">
     Your browser does not support embedded video.
   </video>
   <figcaption id="airfoil-control-caption">Synchronized flow visualization (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. The two source animations play together in one video; no audio. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
