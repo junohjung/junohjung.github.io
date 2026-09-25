@@ -152,12 +152,11 @@ Collaborative contributions include [Towards resolvent-based estimation and cont
 Four surface sensors and four actuators suppress unsteady wake fluctuations using nested resolvent-based controllers. Controller A is designed around the original mean flow; Controller B accounts for the mean flow modified by Controller A.
 
 <figure class="research-figure control-comparison">
-  <video controls controlslist="nodownload" autoplay muted playsinline preload="metadata" width="1920" height="840" poster="/images/jfm2025-airfoil-control-poster.jpg?v=clean-title" aria-label="Synchronized airfoil flow visualization and lift and drag response" aria-describedby="airfoil-control-caption">
-    <source src="/videos/jfm2025-airfoil-control-comparison.mp4?v=clean-title" type="video/mp4">
-    Your browser does not support embedded video.
-  </video>
+  <iframe src="https://www.youtube-nocookie.com/embed/1M5e0QN-EZA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="840" title="Resolvent-based estimation and control of a laminar airfoil wake — Jung et al., JFM (2025)" aria-describedby="airfoil-control-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption id="airfoil-control-caption">Synchronized flow visualization (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. The two source animations play together in one video; no audio. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
 </figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=1M5e0QN-EZA">Watch on YouTube</a></p>
 
 With both controllers active, the mean lift coefficient increases by approximately 143%, while the velocity-fluctuation energy at the control target decreases by approximately 98% relative to the uncontrolled flow. The mean drag coefficient remains largely unchanged.
 
