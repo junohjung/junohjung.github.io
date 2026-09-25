@@ -147,7 +147,26 @@ Related methodological contributions include [Efficient harmonic resolvent analy
 
 Collaborative contributions include [Towards resolvent-based estimation and control of wavepackets in supersonic turbulent jets](/publications/#conference-4), AIAA SciTech Forum (2026), and [Resolvent-based estimation of wavepackets in turbulent jets](/publications/#conference-5), AIAA/CEAS (2024).
 
-### Representative result
+<h3 id="laminar-airfoil-control">Laminar airfoil control · JFM 2025</h3>
+
+Four surface sensors and four actuators suppress unsteady wake fluctuations using nested resolvent-based controllers. Controller A is designed around the original mean flow; Controller B accounts for the mean flow modified by Controller A.
+
+<figure class="research-figure control-comparison">
+  <video controls controlslist="nodownload" autoplay muted playsinline preload="metadata" width="1920" height="1080" poster="/images/jfm2025-airfoil-control-poster.jpg" aria-label="Synchronized airfoil flow visualization and lift and drag response" aria-describedby="airfoil-control-caption">
+    <source src="/videos/jfm2025-airfoil-control-comparison.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+  <figcaption id="airfoil-control-caption">Synchronized flow visualization (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. The two source animations play together in one video; no audio. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
+</figure>
+
+With both controllers active, the study reports approximately **143% higher mean lift** and **98% less velocity-fluctuation energy at the control target** relative to the uncontrolled flow. Mean drag remains largely unchanged.
+
+<figure class="research-figure control-spectrum">
+  <a href="/files/jfm2025-airfoil-control-spectrum.pdf"><img src="/images/jfm2025-airfoil-control-spectrum.png" width="720" height="420" loading="lazy" alt="Power spectral density comparison: uncontrolled flow in black, Controller A in blue, and Controllers A plus B in red."></a>
+  <figcaption>Power spectral density comparison of the uncontrolled flow and the two control configurations. <a href="/files/jfm2025-airfoil-control-spectrum.pdf">View the supplied figure (PDF)</a>.</figcaption>
+</figure>
+
+### Turbulent wake estimation · JFM 2026
 
 <figure class="research-figure">
   <a href="/images/jfm-2026-figure16.png"><img src="/images/jfm-2026-figure16.png" width="3821" height="3040" loading="lazy" alt="LES reference fields and resolvent-based estimates of streamwise velocity fluctuations in an airfoil wake at three times, shown as spanwise averages and on the mid-span plane."></a>

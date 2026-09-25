@@ -41,7 +41,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
     <p class="pub-authors"><strong>Jung, J.</strong>, Bhagwat, R., Towne, A.</p>
     <p class="pub-venue"><em>Journal of Fluid Mechanics, 1016, A41</em></p>
     <p class="pub-note">Nominated for the JFM Emerging Scholar Best Paper Prize.</p>
-    <p class="pub-links"><a href="https://doi.org/10.1017/jfm.2025.10423">DOI: 10.1017/jfm.2025.10423</a></p>
+    <p class="pub-links"><a href="https://doi.org/10.1017/jfm.2025.10423">DOI: 10.1017/jfm.2025.10423</a><a href="/research/#laminar-airfoil-control">Control video &amp; results</a></p>
   </div>
 </article>
 
