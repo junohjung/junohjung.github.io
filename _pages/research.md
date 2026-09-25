@@ -161,11 +161,6 @@ Four surface sensors and four actuators suppress unsteady wake fluctuations usin
 
 With both controllers active, the study reports approximately **143% higher mean lift** and **98% less velocity-fluctuation energy at the control target** relative to the uncontrolled flow. Mean drag remains largely unchanged.
 
-<figure class="research-figure control-spectrum">
-  <a href="/files/jfm2025-airfoil-control-spectrum.pdf"><img src="/images/jfm2025-airfoil-control-spectrum.png" width="720" height="420" loading="lazy" alt="Power spectral density comparison: uncontrolled flow in black, Controller A in blue, and Controllers A plus B in red."></a>
-  <figcaption>Power spectral density comparison of the uncontrolled flow and the two control configurations. <a href="/files/jfm2025-airfoil-control-spectrum.pdf">View the supplied figure (PDF)</a>.</figcaption>
-</figure>
-
 ### Turbulent wake estimation · JFM 2026
 
 <figure class="research-figure">
