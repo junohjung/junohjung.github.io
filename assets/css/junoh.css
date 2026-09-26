@@ -18,3 +18,5 @@
 .control-comparison iframe{display:block;width:100%;height:auto;min-height:200px;aspect-ratio:16/7;background:#fff;border:1px solid var(--line)}.control-spectrum img{width:360px;max-width:100%;height:auto}.pub-links{flex-wrap:wrap}
 
 .turbulent-wake-video iframe{display:block;width:100%;height:auto;min-height:200px;aspect-ratio:48/19;background:#fff;border:1px solid var(--line)}
+
+.turbulent-wake-3d iframe{display:block;width:100%;height:auto;min-height:200px;aspect-ratio:32/11;background:#fff;border:1px solid var(--line)}

@@ -162,6 +162,13 @@ With both controllers active, the mean lift coefficient increases by approximate
 
 <h3 id="turbulent-wake-estimation">Turbulent wake estimation · JFM 2026</h3>
 
+<figure class="research-figure turbulent-wake-3d">
+  <iframe src="https://www.youtube-nocookie.com/embed/I4dmqpuVj3I?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="660" title="Turbulent airfoil flow at Re = 23,000 — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-3d-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="turbulent-wake-3d-caption">Three-dimensional large-eddy simulation (LES) of turbulent airfoil flow at Re = 23,000, showing roll-up, laminar–turbulent transition, and the turbulent wake. The simulation was performed using a U.S. Department of Defense (DoD) supercomputer. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=I4dmqpuVj3I">Watch on YouTube</a></p>
+
 <figure class="research-figure turbulent-wake-video">
   <iframe src="https://www.youtube-nocookie.com/embed/dGAZGiX42DE?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="760" title="Resolvent-based estimation of a turbulent wake — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption id="turbulent-wake-caption">Streamwise velocity fluctuations: LES and resolvent-based estimation using four sensors. Left: spanwise-averaged flow. Right: mid-span-plane flow. Red circles indicate sensor locations. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
@@ -169,10 +176,7 @@ With both controllers active, the mean lift coefficient increases by approximate
 
 <p class="project-links"><a href="https://www.youtube.com/watch?v=dGAZGiX42DE">Watch on YouTube</a></p>
 
-<figure class="research-figure">
-  <a href="/images/jfm-2026-figure16.png"><img src="/images/jfm-2026-figure16.png" width="3821" height="3040" loading="lazy" alt="LES reference fields and resolvent-based estimates of streamwise velocity fluctuations in an airfoil wake at three times, shown as spanwise averages and on the mid-span plane."></a>
-  <figcaption>Streamwise velocity fluctuations in a turbulent airfoil wake: large-eddy simulation (LES) compared with estimates from four sensors at three times. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Figure 16</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Reproduced without alteration. Select the figure to view at full resolution.</figcaption>
-</figure>
+
 
 </section>
 
