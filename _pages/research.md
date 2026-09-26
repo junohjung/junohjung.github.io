@@ -153,14 +153,21 @@ Four surface sensors and four actuators suppress unsteady wake fluctuations usin
 
 <figure class="research-figure control-comparison">
   <iframe src="https://www.youtube-nocookie.com/embed/1M5e0QN-EZA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="840" title="Resolvent-based estimation and control of a laminar airfoil wake — Jung et al., JFM (2025)" aria-describedby="airfoil-control-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <figcaption id="airfoil-control-caption">Synchronized flow visualization (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. The two source animations play together in one video; no audio. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
+  <figcaption id="airfoil-control-caption">Flow fields (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
 </figure>
 
 <p class="project-links"><a href="https://www.youtube.com/watch?v=1M5e0QN-EZA">Watch on YouTube</a></p>
 
 With both controllers active, the mean lift coefficient increases by approximately 143%, while the velocity-fluctuation energy at the control target decreases by approximately 98% relative to the uncontrolled flow. The mean drag coefficient remains largely unchanged.
 
-### Turbulent wake estimation · JFM 2026
+<h3 id="turbulent-wake-estimation">Turbulent wake estimation · JFM 2026</h3>
+
+<figure class="research-figure turbulent-wake-video">
+  <iframe src="https://www.youtube-nocookie.com/embed/dGAZGiX42DE?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="760" title="Resolvent-based estimation of a turbulent wake — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="turbulent-wake-caption">Streamwise velocity fluctuations: LES and resolvent-based estimation using four sensors. Left: spanwise-averaged flow. Right: mid-span-plane flow. Red circles indicate sensor locations. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=dGAZGiX42DE">Watch on YouTube</a></p>
 
 <figure class="research-figure">
   <a href="/images/jfm-2026-figure16.png"><img src="/images/jfm-2026-figure16.png" width="3821" height="3040" loading="lazy" alt="LES reference fields and resolvent-based estimates of streamwise velocity fluctuations in an airfoil wake at three times, shown as spanwise averages and on the mid-span plane."></a>
