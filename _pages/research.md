@@ -28,6 +28,11 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 **Differentiable spectral-element simulation.** My work on **Diff-NekRS** develops a scalable differentiable framework for multi-timestep solver-in-the-loop training. This direction connects learned corrections with the evolution of the numerical solution over multiple timesteps, with an emphasis on high-performance computing and large-scale flow simulation.
 
+<figure class="research-figure" id="diff-nekrs-workflow">
+  <a href="/files/diff-nekrs-workflow.pdf" aria-label="Open the Diff-NekRS workflow as a full-resolution PDF"><img src="/images/diff-nekrs-workflow.png" width="2400" height="1018" loading="lazy" alt="Diff-NekRS workflow: high-order simulation data are projected to low order; neural corrections are trained through a multi-timestep solver rollout and backpropagation, followed by model validation and hybrid CFD–ML inference."></a>
+  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference. Select the diagram to view the full-resolution PDF.</figcaption>
+</figure>
+
 **Weak-form learning.** For finite-element simulations, I study differentiable weak-form corrections and structure-preserving neural variational correction operators. This work investigates how learned corrections can be incorporated into the variational formulation to accelerate simulations while retaining their numerical structure.
 
 **Agent-orchestrated simulation workflows.** I investigate adaptive, multi-fidelity workflows for stable hybrid physics–machine-learning simulations. This workflow-level direction complements differentiable solver development and weak-form learning by coordinating numerical simulations and learned models, connecting hybrid-model development with practical use.
