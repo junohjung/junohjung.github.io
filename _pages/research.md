@@ -83,7 +83,7 @@ In a turbulent flat-plate boundary layer, the method agreed with reference data 
 
 <figure class="research-figure project-video">
   <iframe src="https://www.youtube-nocookie.com/embed/Ex097CDDPNU?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1596" height="1000" title="Zonal RANS/LES method for the simulation of a turbulent backward-facing step flow — Junoh Jung" aria-describedby="zonal-video-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <figcaption id="zonal-video-caption">Streamwise velocity <em>u</em> in the launcher-type backward-facing-step configuration. The animation shows an unsteady low-speed region downstream of the step. Simulation visualization from my master’s research. Junoh Jung, RWTH Aachen University (2018); no audio.</figcaption>
+  <figcaption id="zonal-video-caption">Streamwise velocity <em>u</em> in the launcher-type backward-facing-step configuration. The animation shows an unsteady low-speed region downstream of the step. Simulation visualization from my master’s research. Junoh Jung, RWTH Aachen University (2018).</figcaption>
 </figure>
 
 <p class="project-links">
