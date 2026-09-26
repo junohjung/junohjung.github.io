@@ -163,11 +163,11 @@ With both controllers active, the mean lift coefficient increases by approximate
 <h3 id="turbulent-wake-estimation">Turbulent wake estimation · JFM 2026</h3>
 
 <figure class="research-figure turbulent-wake-3d">
-  <iframe src="https://www.youtube-nocookie.com/embed/I4dmqpuVj3I?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="660" title="Turbulent airfoil flow at Re = 23,000 — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-3d-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/XYpTzq4BICA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="660" title="Turbulent airfoil flow at Re = 23,000 — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-3d-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <figcaption id="turbulent-wake-3d-caption">Three-dimensional large-eddy simulation (LES) of turbulent airfoil flow at Re = 23,000, showing roll-up, laminar–turbulent transition, and the turbulent wake. The simulation was performed using a U.S. Department of Defense (DoD) supercomputer. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
 </figure>
 
-<p class="project-links"><a href="https://www.youtube.com/watch?v=I4dmqpuVj3I">Watch on YouTube</a></p>
+<p class="project-links"><a href="https://www.youtube.com/watch?v=XYpTzq4BICA">Watch on YouTube</a></p>
 
 <figure class="research-figure turbulent-wake-video">
   <iframe src="https://www.youtube-nocookie.com/embed/dGAZGiX42DE?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="760" title="Resolvent-based estimation of a turbulent wake — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
