@@ -135,7 +135,7 @@ Parallel flow simulation, distributed machine learning, and numerical-method dev
     <tr>
       <th scope="row"><a href="https://extremecomputingtraining.anl.gov/about">ATPESC</a></th>
       <td><strong>Selected participant · August 2023</strong></td>
-      <td>Argonne Training Program on Extreme-Scale Computing, funded by the U.S. Department of Energy.</td>
+      <td>Argonne Training Program on Extreme-Scale Computing, funded by the U.S. Department of Energy.<br>Also participated in the <a href="https://www.alcf.anl.gov/events/2026-alcf-incite-gpu-hackathon">2026 ALCF INCITE GPU Hackathon</a>.</td>
     </tr>
   </tbody>
 </table>
