@@ -5,7 +5,7 @@ title: "Curriculum vitae"
 excerpt: "Junoh Jung's research profile, appointments, education, funding, and service in fluid mechanics, scientific machine learning, and high-performance computing."
 ---
 
-<p class="action-links"><a class="primary-link" href="/files/CV_Jung_2026-09-28_public.pdf">Download CV (PDF)</a><span class="section-intro">September 2026</span></p>
+<p class="action-links"><a class="primary-link" href="/files/CV_Jung_2026-09-28_public.pdf?v=2">Download CV (PDF)</a><span class="section-intro">September 2026</span></p>
 
 ## Research profile
 
