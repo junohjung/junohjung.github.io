@@ -123,4 +123,8 @@ My doctoral work used the University of Michigan’s Great Lakes cluster and U.S
 
 For my master’s research at RWTH Aachen, I ran the launcher-flow simulation on the Cray XC40 at the Stuttgart High Performance Computing Center, using 50 nodes with 24 CPU cores per node (1,200 cores total). See my [master’s thesis, Section 6.2](https://publications.rwth-aachen.de/record/794112/files/794112.pdf). My development work focused on parallel implementation in the Zonal Flow Solver for fully coupled RANS–LES simulation. I developed interpolation and parallel data exchange across overlapping meshes with different resolutions, and applied the method to turbulent boundary layers and a launcher-type backward-facing-step configuration.
 
+### Extreme-scale computing training
+
+In August 2023, I participated in the Argonne Training Program on Extreme-Scale Computing (ATPESC) as a selected participant. This U.S. Department of Energy–funded program complemented my research experience in high-performance scientific computing.
+
 </section>
