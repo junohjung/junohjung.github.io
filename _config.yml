@@ -6,7 +6,7 @@ description: "Computational fluid dynamics, scientific machine learning, and hig
 url: "https://junohjung.github.io"
 baseurl: ""
 repository: junohjung/junohjung.github.io
-private_preview: true
+private_preview: false
 author:
   name: Junoh Jung
   avatar: portrait.jpg
@@ -28,7 +28,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 include: [_pages]
-exclude: [README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, scripts, .bundle, .openai, dist, tmp, package.json, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
+exclude: [Junoh_Jung_preview_update.zip, README.md, AGENTS.md, LICENSE, Gemfile, Gemfile.lock, vendor, scripts, .bundle, .openai, dist, tmp, package.json, node_modules, assets/js/_main.js, assets/js/plugins, assets/js/vendor]
 destination: dist
 collections:
   publications:
