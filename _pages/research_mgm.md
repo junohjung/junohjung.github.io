@@ -107,16 +107,20 @@ The method was studied using a turbulent flat-plate boundary layer and a launche
 
 <section class="research-topic" markdown="1">
 
-<h2 id="scientific-computing"><span class="research-index">04 / </span>Scientific computing and research experience</h2>
+<h2 id="scientific-computing">High-performance computing experience</h2>
 
-My research experience spans numerical-method development, aerodynamic-flow analysis, and parallel scientific computing. I work with C/C++, Python, Fortran, MPI, and GPU computing, supported by experience on university, Department of Defense, and DOE computing systems.
+My experience in high-performance computing supports the research directions above, connecting numerical-method development with parallel flow simulation and distributed machine learning. I work with C/C++, Python, Fortran, MPI, and GPU computing.
 
-| Research setting | Area of experience |
-| --- | --- |
-| **Argonne National Laboratory** | Hybrid physics–ML methods and high-performance computational fluid dynamics |
-| **University of Michigan** | Resolvent-based flow estimation and control; aerodynamic flows and numerical simulation |
-| **RWTH Aachen University** | Coupled RANS–LES methods, separated turbulent flows, and parallel implementation |
+### Argonne National Laboratory
 
-My teaching and mentoring experience includes supporting 101 students in introductory fluid mechanics at Michigan and participating as a mentor in Argonne GPU Hackathons. These activities complement my research in fluid mechanics and computational science.
+On Aurora at the Argonne Leadership Computing Facility (ALCF), I have tested distributed differentiable training with up to 1,020 MPI ranks. My development work includes Diff-NekRS for multi-timestep solver-in-the-loop training, hybrid physics–ML flow simulation, and differentiable weak-form corrections for finite-element solvers. As sole principal investigator, I received an ALCF Director’s Discretionary allocation of 45,000 node-hours over six months for differentiable hybrid physics–ML simulations.
+
+### University of Michigan
+
+My doctoral work used university and U.S. Department of Defense (DoD) supercomputing resources for aerodynamic-flow simulation and resolvent-based estimation and control. I developed methods for estimating flow fields from sparse measurements and designing feedback controllers, with applications to laminar airfoil wakes and large-eddy simulation of turbulent airfoil flow.
+
+### RWTH Aachen University
+
+My master’s work focused on parallel implementation in the Zonal Flow Solver for fully coupled RANS–LES simulation. I developed interpolation and parallel data exchange across overlapping meshes with different resolutions, and applied the method to turbulent boundary layers and a launcher-type backward-facing-step configuration.
 
 </section>
