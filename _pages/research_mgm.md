@@ -113,14 +113,14 @@ My experience in high-performance computing supports the research directions abo
 
 ### Argonne National Laboratory
 
-On Aurora at the Argonne Leadership Computing Facility (ALCF), I have tested distributed differentiable training with up to 1,020 MPI ranks. My development work includes Diff-NekRS for multi-timestep solver-in-the-loop training, hybrid physics–ML flow simulation, and differentiable weak-form corrections for finite-element solvers. As sole principal investigator, I received an ALCF Director’s Discretionary allocation of 45,000 node-hours over six months for differentiable hybrid physics–ML simulations.
+On Aurora at the Argonne Leadership Computing Facility (ALCF), I tested distributed differentiable training on up to 85 nodes with 1,020 MPI ranks, using 12 ranks per node (one per GPU tile). See the [Diff-NekRS paper](https://arxiv.org/abs/2609.23208). My development work includes Diff-NekRS for multi-timestep solver-in-the-loop training, hybrid physics–ML flow simulation, and differentiable weak-form corrections for finite-element solvers. As sole principal investigator, I received an ALCF Director’s Discretionary allocation of 45,000 node-hours over six months for differentiable hybrid physics–ML simulations.
 
 ### University of Michigan
 
-My doctoral work used university and U.S. Department of Defense (DoD) supercomputing resources for aerodynamic-flow simulation and resolvent-based estimation and control. I developed methods for estimating flow fields from sparse measurements and designing feedback controllers, with applications to laminar airfoil wakes and large-eddy simulation of turbulent airfoil flow.
+My doctoral work used the University of Michigan’s Great Lakes cluster and U.S. Department of Defense (DoD) supercomputing resources for aerodynamic-flow simulation and resolvent-based estimation and control. I developed methods for estimating flow fields from sparse measurements and designing feedback controllers, with applications to laminar airfoil wakes and large-eddy simulation of turbulent airfoil flow.
 
 ### RWTH Aachen University
 
-My master’s work focused on parallel implementation in the Zonal Flow Solver for fully coupled RANS–LES simulation. I developed interpolation and parallel data exchange across overlapping meshes with different resolutions, and applied the method to turbulent boundary layers and a launcher-type backward-facing-step configuration.
+For my master’s research at RWTH Aachen, I ran the launcher-flow simulation on the Cray XC40 at the Stuttgart High Performance Computing Center, using 50 nodes with 24 CPU cores per node (1,200 cores total). See my [master’s thesis, Section 6.2](https://publications.rwth-aachen.de/record/794112/files/794112.pdf). My development work focused on parallel implementation in the Zonal Flow Solver for fully coupled RANS–LES simulation. I developed interpolation and parallel data exchange across overlapping meshes with different resolutions, and applied the method to turbulent boundary layers and a launcher-type backward-facing-step configuration.
 
 </section>
