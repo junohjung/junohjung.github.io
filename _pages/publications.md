@@ -6,7 +6,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 ---
 
 <p class="section-intro">Journal articles, preprints, conference papers, proceedings and abstracts, manuscripts in preparation, and theses. <a href="https://scholar.google.com/citations?user=CN8U92sAAAAJ">Google Scholar</a></p>
-<p class="section-intro">Publication status follows the September 2026 CV. Accepted and forthcoming works are identified explicitly.</p>
+<p class="section-intro">Publication information is updated as papers are published. Accepted and forthcoming works are identified explicitly.</p>
 
 <!-- Entries are defined on this page so these five Markdown files can be deployed without changes to _publications or publication-entry.html. -->
 
@@ -16,9 +16,10 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
   <div class="pub-year">2026</div>
   <div>
     <span id="journal-1" aria-hidden="true"></span>
-    <h3>Physics-Informed B-spline Reconstruction of Flow Data</h3>
+    <h3><a href="https://www.sciencedirect.com/science/article/pii/S0045782526007097">Physics-Informed B-spline Reconstruction of Flow Data</a></h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Lenz, D., Constantinescu, E., Peterka, T.</p>
-    <p class="pub-venue"><em>Computer Methods in Applied Mechanics and Engineering</em> · <strong>Accepted</strong></p>
+    <p class="pub-venue"><em>Computer Methods in Applied Mechanics and Engineering</em> · Published (2026)</p>
+    <p class="pub-links"><a href="https://www.sciencedirect.com/science/article/pii/S0045782526007097">Published article</a></p>
   </div>
 </article>
 

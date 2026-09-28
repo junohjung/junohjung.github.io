@@ -120,7 +120,7 @@ In a turbulent flat-plate boundary layer, the method agreed with reference data 
 
 ### Representative work
 
-[Physics-Informed B-spline Reconstruction of Flow Data](/publications/#pibsr-2026). *Computer Methods in Applied Mechanics and Engineering* (accepted, 2026).
+[Physics-Informed B-spline Reconstruction of Flow Data](/publications/#pibsr-2026). *Computer Methods in Applied Mechanics and Engineering* (2026). [Published article](https://www.sciencedirect.com/science/article/pii/S0045782526007097).
 
 </section>
 

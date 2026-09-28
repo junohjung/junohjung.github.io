@@ -22,11 +22,11 @@ My work combines physics-based flow simulation with machine learning to improve 
 
 The framework integrates a learned component with a numerical flow solver. It brings together computational fluid dynamics and scientific machine learning within a framework designed for large-scale computing.
 
-Within this broader hybrid physics–ML research program, **physics-informed B-spline reconstruction (PI-BSR)** combines flow data and physical information to reconstruct continuous flow fields. Its spline-based representation complements learned corrections embedded in numerical flow solvers.
+Within this broader hybrid physics–ML research program, physics-informed B-spline reconstruction (PI-BSR) combines flow data and physical information to reconstruct continuous flow fields. This work is useful for coarse-grid hybrid physics–ML simulation.
 
 ### Representative publications and conference contributions
 
-**Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2026). *Physics-Informed B-spline Reconstruction of Flow Data.* Computer Methods in Applied Mechanics and Engineering. **Accepted.**
+**Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2026). *Physics-Informed B-spline Reconstruction of Flow Data.* Computer Methods in Applied Mechanics and Engineering. [Published article](https://www.sciencedirect.com/science/article/pii/S0045782526007097).
 
 **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
 
