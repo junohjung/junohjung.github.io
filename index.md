@@ -14,7 +14,7 @@ I received my **Ph.D. in Mechanical Engineering from the University of Michigan 
 
 At Argonne, I have led an LDRD project as sole principal investigator and an ALCF Director’s Discretionary project supported by 45,000 node-hours of computing time. Further details on my appointments, research support, and professional service are available in my [CV](/cv/).
 
-<p class="action-links"><a class="primary-link" href="/research-mgm/">Explore my research</a><a href="/files/CV_Jung_2026-09-28_public.pdf?v=2">Download CV <span aria-hidden="true">↓</span></a></p>
+<p class="action-links"><a class="primary-link" href="/research-mgm/">Explore my research</a><a href="/files/CV_Jung_2026-09-28_public.pdf?v=3">Download CV <span aria-hidden="true">↓</span></a></p>
 
 ## Contact
 
