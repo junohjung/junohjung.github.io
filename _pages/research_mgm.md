@@ -30,9 +30,9 @@ Within this broader hybrid physics–ML research program, physics-informed B-spl
 
 **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
 
-**Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM.
+**Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM. [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
 
-**Jung, J.**, Constantinescu, E., and Balin, R. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Accepted; forthcoming.**
+**Jung, J.**, Constantinescu, E., and Balin, R. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Forthcoming.**
 
 </section>
 

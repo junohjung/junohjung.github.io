@@ -55,9 +55,9 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 [A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
 
-[Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations](/publications/#conference-3). ASME FEDSM (2026).
+[Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations](/publications/#conference-3). ASME FEDSM (2026). [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
 
-[Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations](/publications/#conference-1). AIAA SciTech Forum (2027; accepted, forthcoming).
+[Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations](/publications/#conference-1). AIAA SciTech Forum (2027; forthcoming).
 
 Related manuscripts on differentiable spectral-element hybrid modeling, structure-preserving neural variational correction operators, and agent-orchestrated multi-fidelity workflows are in preparation. [Manuscripts in preparation](/publications/#manuscripts-in-preparation)
 

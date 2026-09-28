@@ -10,7 +10,7 @@ excerpt: "Junoh Jung is a computational scientist at Argonne National Laboratory
 
 I am a **Postdoctoral Appointee in the Mathematics and Computer Science Division at Argonne National Laboratory**, working with Emil Constantinescu (supervisor) and Bethany Lusch (mentor).
 
-I received my **Ph.D. in Mechanical Engineering from the University of Michigan in 2024**, advised by Aaron Towne. I previously earned an M.S. in Aerospace Engineering from RWTH Aachen University and a B.S. in Mechanical and System Design Engineering from Hongik University.
+I received my **Ph.D. in Mechanical Engineering from the University of Michigan in December 2024**, advised by Aaron Towne. I previously earned an M.S. in Aerospace Engineering from RWTH Aachen University and a B.S. in Mechanical and System Design Engineering from Hongik University.
 
 At Argonne, I have led an LDRD project as sole principal investigator and an ALCF Director’s Discretionary project supported by 45,000 node-hours of computing time. Further details on my appointments, research support, and professional service are available in my [CV](/cv/).
 

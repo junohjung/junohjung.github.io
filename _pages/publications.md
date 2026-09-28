@@ -6,7 +6,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 ---
 
 <p class="section-intro">Journal articles, preprints, conference papers, proceedings and abstracts, manuscripts in preparation, and theses. <a href="https://scholar.google.com/citations?user=CN8U92sAAAAJ">Google Scholar</a></p>
-<p class="section-intro">Publication information is updated as papers are published. Accepted and forthcoming works are identified explicitly.</p>
+<p class="section-intro">Publication information is updated as papers are published. Forthcoming works are identified explicitly.</p>
 
 <!-- Entries are defined on this page so these five Markdown files can be deployed without changes to _publications or publication-entry.html. -->
 
@@ -88,7 +88,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
   <div>
     <h3>Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations</h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E., Balin, R.</p>
-    <p class="pub-venue"><em>AIAA SciTech Forum</em> · <strong>Accepted; forthcoming</strong></p>
+    <p class="pub-venue"><em>AIAA SciTech Forum</em> · <strong>Forthcoming</strong></p>
   </div>
 </article>
 
@@ -105,7 +105,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 <article class="publication" id="conference-3">
   <div class="pub-year">2026</div>
   <div>
-    <h3>Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations</h3>
+    <h3><a href="https://arxiv.org/pdf/2601.20019">Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations</a></h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E.</p>
     <p class="pub-venue"><em>ASME FEDSM</em></p>
   </div>
