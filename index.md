@@ -16,7 +16,7 @@ My work also spans physics-informed flow reconstruction and resolvent-based flow
 
 I received my Ph.D. in Mechanical Engineering from the University of Michigan in 2024, advised by Aaron Towne.
 
-<p class="action-links"><a class="primary-link" href="/research/">Explore my research</a><a href="/files/CV_Jung_Sep2026_public.pdf">Download CV <span aria-hidden="true">↓</span></a></p>
+<p class="action-links"><a class="primary-link" href="/research-mgm/">Explore my research</a><a href="/files/CV_Jung_Sep2026_public.pdf">Download CV <span aria-hidden="true">↓</span></a></p>
 
 ## Research directions
 
