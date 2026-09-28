@@ -28,7 +28,7 @@
 .hpc-table thead th{background:var(--ink);color:#fff;font-weight:600}
 .hpc-table thead th:first-child{width:22%}.hpc-table thead th:nth-child(2){width:35%}
 .hpc-table tbody th{font-weight:600;color:var(--ink)}
-.hpc-table tbody tr:nth-child(even){background:#f3f7f9}
+.hpc-table tbody,.hpc-table tbody tr,.hpc-table tbody th,.hpc-table tbody td{background:transparent}
 .hpc-table tbody tr:last-child>*{border-bottom:0}
 .hpc-table td strong{color:var(--ink)}.hpc-table small{font-size:.82rem;color:var(--muted)}
 .hpc-table-wrap:focus-visible{outline:3px solid var(--accent);outline-offset:3px}

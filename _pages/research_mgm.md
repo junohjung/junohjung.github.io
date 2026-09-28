@@ -124,8 +124,8 @@ Parallel flow simulation, distributed machine learning, and numerical-method dev
     </tr>
     <tr>
       <th scope="row">University of Michigan</th>
-      <td><strong>Great Lakes</strong><br>U.S. Department of Defense (DoD) supercomputing resources</td>
-      <td>Resolvent-based estimation from sparse measurements and feedback control; laminar airfoil-wake simulation and turbulent-airfoil LES.</td>
+      <td><strong>Primary: U.S. Department of Defense (DoD) supercomputing resources</strong><br>Also used: Great Lakes; ME-PASCAL and ME-EULER local machines.</td>
+      <td>Resolvent-based estimation from sparse measurements and feedback control; laminar airfoil-wake simulation and turbulent-airfoil LES.<br><strong>Served as manager of ME-PASCAL.</strong></td>
     </tr>
     <tr>
       <th scope="row">RWTH Aachen University</th>
@@ -133,7 +133,7 @@ Parallel flow simulation, distributed machine learning, and numerical-method dev
       <td>Fully coupled RANS–LES in the Zonal Flow Solver; interpolation and parallel data exchange across overlapping meshes with different resolutions.<br><a href="https://publications.rwth-aachen.de/record/794112/files/794112.pdf">Master’s thesis, Section 6.2</a></td>
     </tr>
     <tr>
-      <th scope="row">ATPESC</th>
+      <th scope="row"><a href="https://extremecomputingtraining.anl.gov/about">ATPESC</a></th>
       <td><strong>Selected participant · August 2023</strong></td>
       <td>Argonne Training Program on Extreme-Scale Computing, funded by the U.S. Department of Energy.</td>
     </tr>
