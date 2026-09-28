@@ -18,13 +18,21 @@ At Argonne National Laboratory, my work focuses on hybrid physics–ML methods f
 
 <h2 id="hybrid-physics-ml"><span class="research-index">01 / </span>Hybrid physics–ML simulation</h2>
 
-My published work combines physics-based flow simulation with machine learning to improve coarse-grid spectral-element computations. This research addresses the balance between predictive accuracy and computational cost in large-scale fluid simulation.
+My work combines physics-based flow simulation with machine learning to improve coarse-grid spectral-element computations. This research addresses the balance between predictive accuracy and computational cost in large-scale fluid simulation.
 
 The framework integrates a learned component with a numerical flow solver. It brings together computational fluid dynamics and scientific machine learning within a framework designed for large-scale computing.
 
-### Representative publication
+Within this broader hybrid physics–ML research program, **physics-informed B-spline reconstruction (PI-BSR)** combines flow data and physical information to reconstruct continuous flow fields. Its spline-based representation complements learned corrections embedded in numerical flow solvers.
+
+### Representative publications and conference contributions
+
+**Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2026). *Physics-Informed B-spline Reconstruction of Flow Data.* Computer Methods in Applied Mechanics and Engineering. **Accepted.**
 
 **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
+
+**Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM.
+
+**Jung, J.**, Constantinescu, E., and Balin, R. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Accepted; forthcoming.**
 
 </section>
 
@@ -40,11 +48,32 @@ My work on a laminar airfoil wake develops resolvent-based estimation and feedba
 
 **Jung, J.**, Bhagwat, R., and Towne, A. (2025). *Resolvent-based estimation and control of a laminar airfoil wake.* Journal of Fluid Mechanics, 1016, A41. [Paper](https://doi.org/10.1017/jfm.2025.10423)
 
+<figure class="research-figure control-comparison">
+  <iframe src="https://www.youtube-nocookie.com/embed/1M5e0QN-EZA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="840" title="Resolvent-based estimation and control of a laminar airfoil wake — Jung et al., JFM (2025)" aria-describedby="airfoil-control-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="airfoil-control-caption">Flow fields (left: streamwise velocity above, vorticity below) and lift and drag coefficients (right). Arrows mark when Controllers A and B are turned on. <a href="https://doi.org/10.1017/jfm.2025.10423">Jung, Bhagwat &amp; Towne (2025), Journal of Fluid Mechanics, 1016, A41</a>.</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=1M5e0QN-EZA">Watch on YouTube</a></p>
+
 ### Estimation of a turbulent wake
 
 My work on turbulent-wake estimation combines flow measurements with resolvent-based models to estimate unmeasured flow fluctuations. This study extends the estimation methodology to a turbulent aerodynamic flow.
 
 **Jung, J.**, and Towne, A. (2026). *Resolvent-based estimation of a turbulent wake.* Journal of Fluid Mechanics, 1033, A22. [Paper](https://doi.org/10.1017/jfm.2026.11444)
+
+<figure class="research-figure turbulent-wake-3d">
+  <iframe src="https://www.youtube-nocookie.com/embed/XYpTzq4BICA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="660" title="Turbulent airfoil flow at Re = 23,000 — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-3d-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="turbulent-wake-3d-caption">Three-dimensional large-eddy simulation (LES) of turbulent airfoil flow at Re = 23,000, showing roll-up, laminar–turbulent transition, and the turbulent wake. The simulation was performed using a U.S. Department of Defense (DoD) supercomputer. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=XYpTzq4BICA">Watch on YouTube</a></p>
+
+<figure class="research-figure turbulent-wake-video">
+  <iframe src="https://www.youtube-nocookie.com/embed/dGAZGiX42DE?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="760" title="Resolvent-based estimation of a turbulent wake — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="turbulent-wake-caption">Streamwise velocity fluctuations: LES and resolvent-based estimation using four sensors. Left: spanwise-averaged flow. Right: mid-span-plane flow. Red circles indicate sensor locations. <a href="https://doi.org/10.1017/jfm.2026.11444">Jung &amp; Towne (2026), Journal of Fluid Mechanics, 1033, A22</a>.</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=dGAZGiX42DE">Watch on YouTube</a></p>
 
 ### Methods for estimation, control, and resolvent analysis
 
@@ -66,6 +95,13 @@ The method was studied using a turbulent flat-plate boundary layer and a launche
 ### Publicly available thesis
 
 **Jung, J.** (2018). *Development of a fully coupled zonal RANS/LES method for the simulation of a turbulent backward-facing step flow.* Master’s thesis, RWTH Aachen University. Advisor: Wolfgang Schroeder. [Thesis record](https://doi.org/10.18154/RWTH-2020-07411)
+
+<figure class="research-figure project-video">
+  <iframe src="https://www.youtube-nocookie.com/embed/Ex097CDDPNU?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1596" height="1000" title="Zonal RANS/LES method for the simulation of a turbulent backward-facing step flow — Junoh Jung" aria-describedby="zonal-video-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figcaption id="zonal-video-caption">Streamwise velocity <em>u</em> in the launcher-type backward-facing-step configuration. The animation shows an unsteady low-speed region downstream of the step. Simulation visualization from my master’s research. Junoh Jung, RWTH Aachen University (2018).</figcaption>
+</figure>
+
+<p class="project-links"><a href="https://www.youtube.com/watch?v=Ex097CDDPNU">Watch on YouTube</a></p>
 
 </section>
 
