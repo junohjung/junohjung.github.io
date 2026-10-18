@@ -32,3 +32,5 @@
 .hpc-table tbody tr:last-child>*{border-bottom:0}
 .hpc-table td strong{color:var(--ink)}.hpc-table small{font-size:.82rem;color:var(--muted)}
 .hpc-table-wrap:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+
+.pub-number{display:block;color:var(--accent);font-size:1.05rem;line-height:1.5}.pub-date{display:block;font-size:.875rem;margin-top:.2rem}
