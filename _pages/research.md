@@ -51,15 +51,15 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 #### Representative work
 
-[Diff-NekRS: A Scalable Differentiable Framework for Multi-Timestep Solver-in-the-Loop Training](/publications/#diff-nekrs-preprint-2026). arXiv preprint (2026).
+[C2 · Diff-NekRS: A scalable differentiable framework for multi-timestep solver-in-the-loop training](/publications/#diff-nekrs-preprint-2026). Submitted (2026). [Preprint](https://arxiv.org/abs/2609.23208).
 
-[A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
+[C3 · A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
 
-[Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations](/publications/#conference-3). ASME FEDSM (2026). [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
+[C4 · Learning differentiable weak-form corrections to accelerate finite element simulations](/publications/#conference-3). ASME FEDSM (2026). [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
 
-[Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations](/publications/#conference-1). AIAA SciTech Forum (2027; forthcoming).
+[C1 · Agent-orchestrated multi-fidelity workflow for stable hybrid physics–machine learning simulations](/publications/#conference-1). AIAA SciTech Forum (2027; forthcoming).
 
-Related manuscripts on differentiable spectral-element hybrid modeling, structure-preserving neural variational correction operators, and agent-orchestrated multi-fidelity workflows are in preparation. [Manuscripts in preparation](/publications/#manuscripts-in-preparation)
+Related journal manuscripts address [differentiable spectral-element hybrid modeling (J1)](/publications/#in-preparation-2) and [structure-preserving neural variational correction operators (J2)](/publications/#in-preparation-3). A manuscript on [agent-orchestrated multi-fidelity workflows (J3)](/publications/#in-preparation-1) is in preparation.
 
 #### Research support
 
@@ -110,7 +110,7 @@ In a turbulent flat-plate boundary layer, the method agreed with reference data 
 
 ### Approach
 
-**Physics-informed reconstruction.** I develop physics-informed B-spline methods that combine flow data with physical information to reconstruct fluid fields. This direction uses physical models to inform data reconstruction, complementing the solver-level corrections described above.
+**Physics-informed reconstruction.** I develop physics-informed B-spline methods that combine flow data with physical information to reconstruct fluid fields. This direction uses physical models to inform data reconstruction, complementing the solver-level corrections described above. Physics-informed B-spline reconstruction (PI-BSR) is useful for coarse-grid hybrid physics–ML simulation.
 
 <div class="method-flow" role="img" aria-label="Conceptual reconstruction workflow: Flow data and physics, then Physics-informed B-splines, then Reconstructed flow fields">
   <span>Flow data &amp; physics</span><b aria-hidden="true">→</b><span>Physics-informed B-splines</span><b aria-hidden="true">→</b><span>Reconstructed flow fields</span>
@@ -120,7 +120,7 @@ In a turbulent flat-plate boundary layer, the method agreed with reference data 
 
 ### Representative work
 
-[Physics-Informed B-spline Reconstruction of Flow Data](/publications/#pibsr-2026). *Computer Methods in Applied Mechanics and Engineering* (2026). [Published article](https://www.sciencedirect.com/science/article/pii/S0045782526007097).
+[J4 · A physics-informed B-spline reconstruction of flow data](/publications/#pibsr-2026). *Computer Methods in Applied Mechanics and Engineering*, 463 (Part B), 119436 (2027). [Published article](https://doi.org/10.1016/j.cma.2026.119436).
 
 </section>
 
@@ -144,13 +144,13 @@ Collaborative work extends these methods to the estimation and control of wavepa
 
 ### Representative work
 
-[Resolvent-based estimation of a turbulent wake](https://doi.org/10.1017/jfm.2026.11444). *Journal of Fluid Mechanics*, 1033, A22 (2026).
+[J5 · Resolvent-based estimation of a turbulent wake](https://doi.org/10.1017/jfm.2026.11444). *Journal of Fluid Mechanics*, 1033, A22 (2026).
 
-[Resolvent-based estimation and control of a laminar airfoil wake](https://doi.org/10.1017/jfm.2025.10423). *Journal of Fluid Mechanics*, 1016, A41 (2025; nominated for the JFM Emerging Scholar Best Paper Prize).
+[J6 · Resolvent-based estimation and control of a laminar airfoil wake](https://doi.org/10.1017/jfm.2025.10423). *Journal of Fluid Mechanics*, 1016, A41 (2025; nominated for the JFM Emerging Scholar Best Paper Prize).
 
-Related methodological contributions include [Efficient harmonic resolvent analysis via time stepping](https://doi.org/10.1007/s00162-024-00694-1), *Theoretical and Computational Fluid Dynamics* (2024), and [Resolvent-based tools for optimal estimation and control via the Wiener–Hopf formalism](https://doi.org/10.1017/jfm.2022.102), *Journal of Fluid Mechanics* (2022).
+Related methodological contributions include [J7 · Efficient harmonic resolvent analysis via time stepping](https://doi.org/10.1007/s00162-024-00694-1), *Theoretical and Computational Fluid Dynamics* (2024), and [J8 · Resolvent-based tools for optimal estimation and control via the Wiener–Hopf formalism](https://doi.org/10.1017/jfm.2022.102), *Journal of Fluid Mechanics* (2022).
 
-Collaborative contributions include [Towards resolvent-based estimation and control of wavepackets in supersonic turbulent jets](/publications/#conference-4), AIAA SciTech Forum (2026), and [Resolvent-based estimation of wavepackets in turbulent jets](/publications/#conference-5), AIAA/CEAS (2024).
+Collaborative contributions include [C5 · Toward resolvent-based estimation and control of wavepackets in supersonic turbulent jets](/publications/#conference-4), AIAA SciTech Forum (2026), and [C6 · Resolvent-based estimation of wavepackets in turbulent jets](/publications/#conference-5), AIAA/CEAS (2024).
 
 <h3 id="laminar-airfoil-control">Laminar airfoil control · JFM 2025</h3>
 

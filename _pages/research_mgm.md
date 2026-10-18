@@ -20,19 +20,30 @@ At Argonne National Laboratory, my work focuses on hybrid physics–ML methods f
 
 My work combines physics-based flow simulation with machine learning to improve coarse-grid spectral-element computations. This research addresses the balance between predictive accuracy and computational cost in large-scale fluid simulation.
 
-The framework integrates a learned component with a numerical flow solver. It brings together computational fluid dynamics and scientific machine learning within a framework designed for large-scale computing.
+Diff-NekRS integrates learned corrections with a spectral-element flow solver through differentiable, multi-timestep solver-in-the-loop training. This work connects hybrid-model development with distributed computing on Aurora. The submitted conference manuscript is [C2](/publications/#diff-nekrs-preprint-2026); the related journal manuscript, *Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations*, is [J1](/publications/#in-preparation-2).
+
+<figure class="research-figure" id="diff-nekrs-workflow">
+  <a href="/files/diff-nekrs-workflow.pdf" aria-label="Open the Diff-NekRS workflow as a full-resolution PDF"><img src="/images/diff-nekrs-workflow.png" width="2400" height="1018" loading="lazy" alt="Diff-NekRS workflow: high-order simulation data are projected to low order; neural corrections are trained through a multi-timestep solver rollout and backpropagation, followed by model validation and hybrid CFD–ML inference."></a>
+  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference. Select the diagram to view the full-resolution PDF.</figcaption>
+</figure>
+
+For finite-element simulations, I study differentiable weak-form corrections and structure-preserving neural variational correction operators. This direction incorporates learned corrections into the variational formulation to accelerate simulations while retaining their numerical structure. The journal manuscript [J2](/publications/#in-preparation-3) extends the ASME FEDSM 2026 work [C4](/publications/#conference-3).
+
+I also investigate agent-orchestrated multi-fidelity workflows for stable hybrid physics–machine-learning simulations. This direction coordinates numerical simulations and learned models across levels of fidelity. The AIAA SciTech 2027 contribution [C1](/publications/#conference-1) is forthcoming, and the related journal manuscript [J3](/publications/#in-preparation-1) is in preparation.
 
 Within this broader hybrid physics–ML research program, physics-informed B-spline reconstruction (PI-BSR) combines flow data and physical information to reconstruct continuous flow fields. This work is useful for coarse-grid hybrid physics–ML simulation.
 
 ### Representative publications and conference contributions
 
-**Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2026). *Physics-Informed B-spline Reconstruction of Flow Data.* Computer Methods in Applied Mechanics and Engineering. [Published article](https://www.sciencedirect.com/science/article/pii/S0045782526007097).
+[J4](/publications/#pibsr-2026) · **Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2027). *A physics-informed B-spline reconstruction of flow data.* Computer Methods in Applied Mechanics and Engineering, 463 (Part B), 119436. [Published article](https://doi.org/10.1016/j.cma.2026.119436).
 
-**Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
+[C2](/publications/#diff-nekrs-preprint-2026) · **Jung, J.**, Balin, R., Lusch, B., and Constantinescu, E. (2026). *Diff-NekRS: A scalable differentiable framework for multi-timestep solver-in-the-loop training.* Submitted. [Preprint](https://arxiv.org/abs/2609.23208).
 
-**Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM. [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
+[C3](/publications/#conference-2) · **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
 
-**Jung, J.**, Constantinescu, E., and Balin, R. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Forthcoming.**
+[C4](/publications/#conference-3) · **Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM. [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
+
+[C1](/publications/#conference-1) · **Jung, J.**, Constantinescu, E., and Balin, R. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Forthcoming.**
 
 </section>
 
@@ -46,7 +57,7 @@ My doctoral research uses the input–output dynamics of fluid flows to connect 
 
 My work on a laminar airfoil wake develops resolvent-based estimation and feedback control using surface sensors and actuators. It examines how a model of the flow dynamics can support the suppression of wake fluctuations and the modification of aerodynamic performance.
 
-**Jung, J.**, Bhagwat, R., and Towne, A. (2025). *Resolvent-based estimation and control of a laminar airfoil wake.* Journal of Fluid Mechanics, 1016, A41. [Paper](https://doi.org/10.1017/jfm.2025.10423)
+[J6](/publications/#laminar-airfoil-wake-2025) · **Jung, J.**, Bhagwat, R., and Towne, A. (2025). *Resolvent-based estimation and control of a laminar airfoil wake.* Journal of Fluid Mechanics, 1016, A41. [Paper](https://doi.org/10.1017/jfm.2025.10423)
 
 <figure class="research-figure control-comparison">
   <iframe src="https://www.youtube-nocookie.com/embed/1M5e0QN-EZA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="840" title="Resolvent-based estimation and control of a laminar airfoil wake — Jung et al., JFM (2025)" aria-describedby="airfoil-control-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -59,7 +70,7 @@ My work on a laminar airfoil wake develops resolvent-based estimation and feedba
 
 My work on turbulent-wake estimation combines flow measurements with resolvent-based models to estimate unmeasured flow fluctuations. This study extends the estimation methodology to a turbulent aerodynamic flow.
 
-**Jung, J.**, and Towne, A. (2026). *Resolvent-based estimation of a turbulent wake.* Journal of Fluid Mechanics, 1033, A22. [Paper](https://doi.org/10.1017/jfm.2026.11444)
+[J5](/publications/#turbulent-wake-2026) · **Jung, J.**, and Towne, A. (2026). *Resolvent-based estimation of a turbulent wake.* Journal of Fluid Mechanics, 1033, A22. [Paper](https://doi.org/10.1017/jfm.2026.11444)
 
 <figure class="research-figure turbulent-wake-3d">
   <iframe src="https://www.youtube-nocookie.com/embed/XYpTzq4BICA?autoplay=1&amp;mute=1&amp;playsinline=1&amp;rel=0" width="1920" height="660" title="Turbulent airfoil flow at Re = 23,000 — Jung and Towne, JFM (2026)" aria-describedby="turbulent-wake-3d-caption" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -79,8 +90,8 @@ My work on turbulent-wake estimation combines flow measurements with resolvent-b
 
 Collaborative methodological work develops optimal estimation and control through the Wiener–Hopf formalism and efficient harmonic resolvent analysis through time stepping.
 
-- Martini, E., **Jung, J.**, Cavalieri, A. V. G., Jordan, P., and Towne, A. (2022). *Resolvent-based tools for optimal estimation and control via the Wiener–Hopf formalism.* Journal of Fluid Mechanics, 937, A19. [Paper](https://doi.org/10.1017/jfm.2022.102)
-- Farghadan, A., **Jung, J.**, Bhagwat, R., and Towne, A. (2024). *Efficient harmonic resolvent analysis via time stepping.* Theoretical and Computational Fluid Dynamics, 38, 331–353. [Paper](https://doi.org/10.1007/s00162-024-00694-1)
+- [J8](/publications/#wiener-hopf-2022) · Martini, E., **Jung, J.**, Cavalieri, A. V. G., Jordan, P., and Towne, A. (2022). *Resolvent-based tools for optimal estimation and control via the Wiener–Hopf formalism.* Journal of Fluid Mechanics, 937, A19. [Paper](https://doi.org/10.1017/jfm.2022.102)
+- [J7](/publications/#harmonic-resolvent-2024) · Farghadan, A., **Jung, J.**, Bhagwat, R., and Towne, A. (2024). *Efficient harmonic resolvent analysis via time stepping.* Theoretical and Computational Fluid Dynamics, 38, 331–353. [Paper](https://doi.org/10.1007/s00162-024-00694-1)
 
 </section>
 
