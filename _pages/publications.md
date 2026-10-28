@@ -49,7 +49,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
     <span id="preprint-1" aria-hidden="true"></span>
     <h3>Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations</h3>
     <p class="pub-authors"><strong>Jung, J.</strong><sup>*</sup>, Balin, R., Lusch, B., Constantinescu, E.</p>
-    <p class="pub-venue">Submitted to <em>Journal of Computational Physics</em></p>
+    <p class="pub-venue">Submitted</p>
     <p class="pub-links"><a href="https://arxiv.org/abs/2609.23208">Preprint: arXiv:2609.23208</a></p>
   </div>
 </article>

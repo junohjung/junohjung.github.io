@@ -51,7 +51,7 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 #### Representative work
 
-[J1 · Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations](/publications/#in-preparation-2). Submitted to *Journal of Computational Physics* (2027). [Preprint](https://arxiv.org/abs/2609.23208).
+[J1 · Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations](/publications/#in-preparation-2). Submitted (2027). [Preprint](https://arxiv.org/abs/2609.23208).
 
 [C2 · A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
 
