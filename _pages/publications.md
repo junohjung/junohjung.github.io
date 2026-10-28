@@ -9,41 +9,55 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 
 <p class="section-intro"><sup>*</sup> Corresponding author.</p>
 
-<span id="manuscripts-in-preparation" aria-hidden="true"></span>
+<h2 id="manuscripts-in-preparation">Manuscripts in preparation</h2>
 
-<h2 id="journal-manuscripts">Journal manuscripts in preparation or under review</h2>
-
-<article class="publication" id="in-preparation-2">
-  <div class="pub-year"><strong class="pub-number">J1</strong></div>
+<article class="publication" id="transient-conjugate-heat-transfer">
+  <div class="pub-year"><strong class="pub-number">M1</strong></div>
   <div>
-    <h3>Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations</h3>
-    <p class="pub-authors"><strong>Jung, J.</strong>, Balin, R., Lusch, B., Constantinescu, E.</p>
-    <p class="pub-venue">Journal version of preprint <a href="https://arxiv.org/abs/2609.23208">arXiv:2609.23208</a></p>
-  </div>
-</article>
-
-<article class="publication" id="in-preparation-3">
-  <div class="pub-year"><strong class="pub-number">J2</strong></div>
-  <div>
-    <h3>Structure-preserving neural variational correction operators for hybrid finite-element machine-learning simulations</h3>
+    <h3>Differentiable hybrid physics–machine learning modeling of transient conjugate heat transfer</h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E.</p>
-    <p class="pub-venue">Journal version of <a href="https://arxiv.org/pdf/2601.20019">ASME FEDSM 2026</a></p>
+    <p class="pub-venue">In preparation</p>
   </div>
 </article>
 
 <article class="publication" id="in-preparation-1">
-  <div class="pub-year"><strong class="pub-number">J3</strong></div>
+  <div class="pub-year"><strong class="pub-number">M2</strong></div>
   <div>
-    <h3>Agent-orchestrated multi-fidelity workflow for a stable hybrid physics-machine learning simulation</h3>
+    <h3>Agent-orchestrated multi-fidelity workflow for stable hybrid physics–machine learning simulations</h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Balin, R., Constantinescu, E.</p>
     <p class="pub-venue">Manuscript in preparation</p>
+  </div>
+</article>
+
+<article class="publication" id="in-preparation-3">
+  <div class="pub-year"><strong class="pub-number">M3</strong></div>
+  <div>
+    <h3>Structure-preserving neural variational correction operators for hybrid finite-element machine-learning simulations</h3>
+    <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E.</p>
+    <p class="pub-venue">In final preparation</p>
+    <p class="pub-links">Related conference paper: <a href="https://arxiv.org/pdf/2601.20019">ASME FEDSM 2026 (PDF)</a></p>
+  </div>
+</article>
+
+<span id="preprints" aria-hidden="true"></span>
+<h2 id="journal-manuscripts">Submitted journal manuscripts</h2>
+
+<article class="publication" id="in-preparation-2">
+  <div class="pub-year"><strong class="pub-number">J1</strong><span class="pub-date">2027</span></div>
+  <div>
+    <span id="diff-nekrs-preprint-2026" aria-hidden="true"></span>
+    <span id="preprint-1" aria-hidden="true"></span>
+    <h3>Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations</h3>
+    <p class="pub-authors"><strong>Jung, J.</strong><sup>*</sup>, Balin, R., Lusch, B., Constantinescu, E.</p>
+    <p class="pub-venue">Submitted to <em>Journal of Computational Physics</em></p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2609.23208">Preprint: arXiv:2609.23208</a></p>
   </div>
 </article>
 
 <h2 id="journal-articles">Peer-reviewed journal articles</h2>
 
 <article class="publication" id="pibsr-2026">
-  <div class="pub-year"><strong class="pub-number">J4</strong><span class="pub-date">2027</span></div>
+  <div class="pub-year"><strong class="pub-number">J2</strong><span class="pub-date">2027</span></div>
   <div>
     <span id="journal-1" aria-hidden="true"></span>
     <h3><a href="https://doi.org/10.1016/j.cma.2026.119436">A physics-informed B-spline reconstruction of flow data</a></h3>
@@ -54,7 +68,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="turbulent-wake-2026">
-  <div class="pub-year"><strong class="pub-number">J5</strong><span class="pub-date">2026</span></div>
+  <div class="pub-year"><strong class="pub-number">J3</strong><span class="pub-date">2026</span></div>
   <div>
     <span id="journal-2" aria-hidden="true"></span>
     <h3><a href="https://doi.org/10.1017/jfm.2026.11444">Resolvent-based estimation of a turbulent wake</a></h3>
@@ -65,7 +79,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="laminar-airfoil-wake-2025">
-  <div class="pub-year"><strong class="pub-number">J6</strong><span class="pub-date">2025</span></div>
+  <div class="pub-year"><strong class="pub-number">J4</strong><span class="pub-date">2025</span></div>
   <div>
     <span id="journal-3" aria-hidden="true"></span>
     <h3><a href="https://doi.org/10.1017/jfm.2025.10423">Resolvent-based estimation and control of a laminar airfoil wake</a></h3>
@@ -77,7 +91,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="harmonic-resolvent-2024">
-  <div class="pub-year"><strong class="pub-number">J7</strong><span class="pub-date">2024</span></div>
+  <div class="pub-year"><strong class="pub-number">J5</strong><span class="pub-date">2024</span></div>
   <div>
     <span id="journal-4" aria-hidden="true"></span>
     <h3><a href="https://doi.org/10.1007/s00162-024-00694-1">Efficient harmonic resolvent analysis via time stepping</a></h3>
@@ -88,7 +102,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="wiener-hopf-2022">
-  <div class="pub-year"><strong class="pub-number">J8</strong><span class="pub-date">2022</span></div>
+  <div class="pub-year"><strong class="pub-number">J6</strong><span class="pub-date">2022</span></div>
   <div>
     <span id="journal-5" aria-hidden="true"></span>
     <h3><a href="https://doi.org/10.1017/jfm.2022.102">Resolvent-based tools for optimal estimation and control via the Wiener–Hopf formalism</a></h3>
@@ -98,34 +112,20 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
   </div>
 </article>
 
-<span id="preprints" aria-hidden="true"></span>
-
-<h2 id="conference-manuscripts">Conference manuscripts and forthcoming papers</h2>
+<span id="conference-manuscripts" aria-hidden="true"></span>
+<h2 id="conference-papers">Conference papers and proceedings</h2>
 
 <article class="publication" id="conference-1">
   <div class="pub-year"><strong class="pub-number">C1</strong><span class="pub-date">2027</span></div>
   <div>
-    <h3>Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations</h3>
-    <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E., Balin, R.</p>
+    <h3>Agent-orchestrated multi-fidelity workflow for stable hybrid physics–machine learning simulations</h3>
+    <p class="pub-authors"><strong>Jung, J.</strong>, Balin, R., Constantinescu, E.</p>
     <p class="pub-venue"><em>AIAA SciTech Forum</em> · <strong>Forthcoming</strong></p>
   </div>
 </article>
 
-<article class="publication" id="diff-nekrs-preprint-2026">
-  <div class="pub-year"><strong class="pub-number">C2</strong><span class="pub-date">2026</span></div>
-  <div>
-    <span id="preprint-1" aria-hidden="true"></span>
-    <h3><a href="https://arxiv.org/abs/2609.23208">Diff-NekRS: A scalable differentiable framework for multi-timestep solver-in-the-loop training</a></h3>
-    <p class="pub-authors"><strong>Jung, J.</strong><sup>*</sup>, Balin, R., Lusch, B., Constantinescu, E.</p>
-    <p class="pub-venue">Submitted</p>
-    <p class="pub-links"><a href="https://arxiv.org/abs/2609.23208">arXiv:2609.23208</a></p>
-  </div>
-</article>
-
-<h2 id="conference-papers">Conference papers and proceedings</h2>
-
 <article class="publication" id="conference-2">
-  <div class="pub-year"><strong class="pub-number">C3</strong><span class="pub-date">2026</span></div>
+  <div class="pub-year"><strong class="pub-number">C2</strong><span class="pub-date">2026</span></div>
   <div>
     <h3><a href="https://doi.org/10.2514/6.2026-4474">A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing</a></h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E., Balin, R., Lusch, B.</p>
@@ -135,16 +135,16 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="conference-3">
-  <div class="pub-year"><strong class="pub-number">C4</strong><span class="pub-date">2026</span></div>
+  <div class="pub-year"><strong class="pub-number">C3</strong><span class="pub-date">2026</span></div>
   <div>
-    <h3><a href="https://arxiv.org/pdf/2601.20019">Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations</a></h3>
+    <h3><a href="https://arxiv.org/pdf/2601.20019">Learning differentiable weak-form corrections to accelerate finite element simulations</a></h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E.</p>
-    <p class="pub-venue"><em>ASME FEDSM</em></p>
+    <p class="pub-venue"><em>ASME FEDSM 2026</em></p>
   </div>
 </article>
 
 <article class="publication" id="conference-4">
-  <div class="pub-year"><strong class="pub-number">C5</strong><span class="pub-date">2026</span></div>
+  <div class="pub-year"><strong class="pub-number">C4</strong><span class="pub-date">2026</span></div>
   <div>
     <h3>Toward resolvent-based estimation and control of wavepackets in supersonic turbulent jets</h3>
     <p class="pub-authors">Zhou, Y., Towne, A., <strong>Jung, J.</strong>, Bhagwat, R., Martini, E., Jordan, P., Audiffred, D., Maia, I., Cavalieri, A. V. G.</p>
@@ -153,7 +153,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="conference-5">
-  <div class="pub-year"><strong class="pub-number">C6</strong><span class="pub-date">2024</span></div>
+  <div class="pub-year"><strong class="pub-number">C5</strong><span class="pub-date">2024</span></div>
   <div>
     <h3>Resolvent-based estimation of wavepackets in turbulent jets</h3>
     <p class="pub-authors">Towne, A., Bhagwat, R., Zhou, Y., <strong>Jung, J.</strong>, Martini, E., Jordan, P., Audiffred, D. B. S., Maia, I., Cavalieri, A. V. G.</p>
@@ -162,7 +162,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="conference-6">
-  <div class="pub-year"><strong class="pub-number">C7</strong><span class="pub-date">2024</span></div>
+  <div class="pub-year"><strong class="pub-number">C6</strong><span class="pub-date">2024</span></div>
   <div>
     <h3>Resolvent-based estimation and control of wakes and jets</h3>
     <p class="pub-authors">Towne, A., <strong>Jung, J.</strong>, Bhagwat, R., Zhou, Y., Paulson, J.</p>
@@ -171,7 +171,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="conference-7">
-  <div class="pub-year"><strong class="pub-number">C8</strong><span class="pub-date">2024</span></div>
+  <div class="pub-year"><strong class="pub-number">C7</strong><span class="pub-date">2024</span></div>
   <div>
     <h3>Toward turbulent wake estimation using a resolvent-based approach</h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Towne, A.</p>
@@ -180,7 +180,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 </article>
 
 <article class="publication" id="conference-8">
-  <div class="pub-year"><strong class="pub-number">C9</strong><span class="pub-date">2023</span></div>
+  <div class="pub-year"><strong class="pub-number">C8</strong><span class="pub-date">2023</span></div>
   <div>
     <h3>Resolvent-based estimation of laminar flow around an airfoil</h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Bhagwat, R., Towne, A.</p>

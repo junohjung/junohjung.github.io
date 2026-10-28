@@ -5,11 +5,11 @@ title: "Curriculum vitae"
 excerpt: "Junoh Jung's research profile, appointments, education, funding, and service in fluid mechanics, scientific machine learning, and high-performance computing."
 ---
 
-<p class="action-links"><a class="primary-link" href="/files/CV_Jung_2026-10-16_public.pdf">Download CV (PDF)</a><span class="section-intro">October 2026</span></p>
+<p class="action-links"><a class="primary-link" href="/files/CV_Junoh_Jung_2026-10-28_public.pdf">Download CV (PDF)</a><span class="section-intro">October 2026</span></p>
 
 ## Research profile
 
-Computational scientist integrating physics-based modeling, scientific machine learning, and high-performance computing (HPC) for accurate, efficient modeling, prediction, and control of fluid flows. Research spans scalable, differentiable hybrid physics–machine-learning simulations, physics-informed flow reconstruction, and resolvent-based flow estimation and control.
+Computational scientist developing hybrid physics–AI/ML methods for modeling, simulation, prediction, and control of complex physical problems. My research combines scientific machine learning, fluid dynamics, and high-performance computing to improve simulation accuracy, efficiency, and reliability, with strengths in differentiable simulation, physics-integrated learning, and estimation and control from limited observations.
 
 ## Academic appointments and research experience
 
@@ -17,7 +17,7 @@ Computational scientist integrating physics-based modeling, scientific machine l
   <div class="date">November 2024–present</div>
   <div>
     <h3>Postdoctoral Appointee</h3>
-    <p>Mathematics and Computer Science Division, Argonne National Laboratory<br>Supervisor: Emil Constantinescu · Mentor: Bethany Lusch<br>Developing differentiable and hybrid physics–machine-learning methods for spectral-element and finite-element flow simulations, with emphasis on scalable computing and adaptive, multi-fidelity workflows.</p>
+    <p>Mathematics and Computer Science Division, Argonne National Laboratory<br>Supervisor: Emil Constantinescu · Mentor: Bethany Lusch<br>Developing differentiable and hybrid physics–machine-learning methods for spectral-element and finite-element flow simulations, including weak-form corrections and agentic multi-fidelity workflows.</p>
   </div>
 </div>
 
@@ -90,16 +90,16 @@ Computational scientist integrating physics-based modeling, scientific machine l
 </div>
 
 <div class="cv-entry" id="alcf-allocation-2026">
-  <div class="date">2026</div>
+  <div class="date">2025–present</div>
   <div>
     <h3>ALCF Director’s Discretionary Allocation Program</h3>
-    <p>Argonne Leadership Computing Facility<br><strong>Sole Principal Investigator</strong> · Allocation: 45,000 node-hours over six months<br>Project: Differentiable Hybrid Physics Machine Learning Simulations.</p>
+    <p>Argonne Leadership Computing Facility<br><strong>Sole Principal Investigator</strong> · Allocation: 45,000 node-hours per six-month period<br>Project: Differentiable Hybrid Physics Machine Learning Simulations.</p>
   </div>
 </div>
 
 <h2 id="publications-and-presentations">Publications and presentations</h2>
 
-<p><a href="/publications/#journal-articles">Peer-reviewed journal articles</a> · <a href="/publications/#preprints">Preprints</a> · <a href="/publications/#conference-papers">Conference papers, proceedings, and abstracts</a> · <a href="/publications/#manuscripts-in-preparation">Manuscripts in preparation</a> · <a href="/publications/#theses">Theses</a></p>
+<p><a href="/publications/#journal-articles">Peer-reviewed journal articles</a> · <a href="/publications/#journal-manuscripts">Submitted journal manuscripts</a> · <a href="/publications/#conference-papers">Conference papers, proceedings, and abstracts</a> · <a href="/publications/#manuscripts-in-preparation">Manuscripts in preparation</a> · <a href="/publications/#theses">Theses</a></p>
 <p><a href="/teaching-talks/#invited-talks">Invited talks</a> · <a href="/teaching-talks/#talks-and-presentations">Talks and presentations</a> · <a href="/teaching-talks/#coauthored-presentations">Coauthored presentations delivered by collaborators</a></p>
 
 ## Honors, fellowships, and awards
@@ -116,7 +116,7 @@ Computational scientist integrating physics-based modeling, scientific machine l
   <div class="date">August 2023</div>
   <div>
     <h3>Selected Participant, Argonne Training Program on Extreme-Scale Computing</h3>
-    <p>ATPESC · Funded by the U.S. Department of Energy.</p>
+    <p>ATPESC · Funded by the U.S. Department of Energy.<br>Selected from about 500 applicants.</p>
   </div>
 </div>
 
@@ -165,6 +165,22 @@ Computational scientist integrating physics-based modeling, scientific machine l
 ## Leadership, mentoring, and professional service
 
 <div class="cv-entry">
+  <div class="date">2026–2027 · Upcoming</div>
+  <div>
+    <h3>STARS High School Research Program</h3>
+    <p>Argonne National Laboratory<br>Mentoring high-school students interested in engineering through research projects.</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="date">2022–2025</div>
+  <div>
+    <h3>Informal Mentor</h3>
+    <p>Yuhao Zhou, Ph.D. student</p>
+  </div>
+</div>
+
+<div class="cv-entry">
   <div class="date">2026 · Forthcoming</div>
   <div>
     <h3>Session Chair</h3>
@@ -176,7 +192,7 @@ Computational scientist integrating physics-based modeling, scientific machine l
   <div class="date">2025–2026</div>
   <div>
     <h3>Mentor and Participant</h3>
-    <p>Argonne GPU Hackathons</p>
+    <p>Argonne GPU Hackathons<br>Mentored NekRS/NekRS-ML teams on GPU porting and performance of scientific applications.</p>
   </div>
 </div>
 
