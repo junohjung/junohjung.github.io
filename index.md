@@ -14,8 +14,6 @@ I received my **Ph.D. in Mechanical Engineering from the University of Michigan 
 
 At Argonne, I have led an LDRD project as sole principal investigator and an ALCF Director’s Discretionary project supported by 45,000 node-hours of computing time. Further details on my appointments, research support, and professional service are available in my [CV](/cv/).
 
-<p class="action-links"><a class="primary-link" href="/research-mgm/">Explore my research</a><a href="/files/CV_Junoh_Jung_2026-11-14_public.pdf">Download CV <span aria-hidden="true">↓</span></a></p>
-
 ## Contact
 
 [jjung@anl.gov](mailto:jjung@anl.gov) · [Google Scholar](https://scholar.google.com/citations?user=CN8U92sAAAAJ) · [GitHub](https://github.com/junohjung)
