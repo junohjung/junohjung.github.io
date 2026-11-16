@@ -43,14 +43,14 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 <h2 id="journal-manuscripts">Submitted journal manuscripts</h2>
 
 <article class="publication" id="in-preparation-2">
-  <div class="pub-year"><strong class="pub-number">J1</strong><span class="pub-date">2027</span></div>
+  <div class="pub-year"><strong class="pub-number">J1</strong></div>
   <div>
     <span id="diff-nekrs-preprint-2026" aria-hidden="true"></span>
     <span id="preprint-1" aria-hidden="true"></span>
     <h3>Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations</h3>
     <p class="pub-authors"><strong>Jung, J.</strong><sup>*</sup>, Balin, R., Lusch, B., Constantinescu, E.</p>
     <p class="pub-venue">Submitted</p>
-    <p class="pub-links"><a href="https://arxiv.org/abs/2609.23208">Preprint: arXiv:2609.23208</a></p>
+    <p class="pub-links"><a href="https://arxiv.org/abs/2609.23208">Related preprint: arXiv:2609.23208</a></p>
   </div>
 </article>
 
@@ -127,7 +127,7 @@ excerpt: "Junoh Jung's publications in computational fluid dynamics, scientific 
 <article class="publication" id="conference-2">
   <div class="pub-year"><strong class="pub-number">C2</strong><span class="pub-date">2026</span></div>
   <div>
-    <h3><a href="https://doi.org/10.2514/6.2026-4474">A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing</a></h3>
+    <h3><a href="https://doi.org/10.2514/6.2026-4474">A hybrid physics–machine-learning framework for enhancing coarse-grid spectral element simulations for large-scale computing</a></h3>
     <p class="pub-authors"><strong>Jung, J.</strong>, Constantinescu, E., Balin, R., Lusch, B.</p>
     <p class="pub-venue"><em>AIAA Aviation Forum</em></p>
     <p class="pub-note">Nominated for the best paper award.</p>

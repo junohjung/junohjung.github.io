@@ -30,7 +30,7 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 <figure class="research-figure" id="diff-nekrs-workflow">
   <a href="/files/diff-nekrs-workflow.pdf" aria-label="Open the Diff-NekRS workflow as a full-resolution PDF"><img src="/images/diff-nekrs-workflow.png" width="2400" height="1018" loading="lazy" alt="Diff-NekRS workflow: high-order simulation data are projected to low order; neural corrections are trained through a multi-timestep solver rollout and backpropagation, followed by model validation and hybrid CFD–ML inference."></a>
-  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference. Select the diagram to view the full-resolution PDF.</figcaption>
+  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference.</figcaption>
 </figure>
 
 **Weak-form learning.** For finite-element simulations, I study differentiable weak-form corrections and structure-preserving neural variational correction operators. This work investigates how learned corrections can be incorporated into the variational formulation to accelerate simulations while retaining their numerical structure.
@@ -51,9 +51,9 @@ I develop hybrid physics–machine-learning methods that incorporate trainable c
 
 #### Representative work
 
-[J1 · Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations](/publications/#in-preparation-2). Submitted (2027). [Preprint](https://arxiv.org/abs/2609.23208).
+[J1 · Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations](/publications/#in-preparation-2). Submitted. [Preprint](https://arxiv.org/abs/2609.23208).
 
-[C2 · A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
+[C2 · A hybrid physics–machine-learning framework for enhancing coarse-grid spectral element simulations for large-scale computing](/publications/#conference-2). AIAA Aviation Forum (2026; nominated for the best paper award).
 
 [C3 · Learning differentiable weak-form corrections to accelerate finite element simulations](/publications/#conference-3). ASME FEDSM (2026). [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
 

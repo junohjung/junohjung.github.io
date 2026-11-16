@@ -20,11 +20,11 @@ At Argonne National Laboratory, my work focuses on hybrid physics–ML methods f
 
 My work combines physics-based flow simulation with machine learning to improve coarse-grid spectral-element computations. This research addresses the balance between predictive accuracy and computational cost in large-scale fluid simulation.
 
-Diff-NekRS integrates learned corrections with a spectral-element flow solver through differentiable, multi-timestep solver-in-the-loop training. This work connects hybrid-model development with distributed computing on Aurora. The journal manuscript, *Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations* [J1](/publications/#in-preparation-2), is marked as Submitted. A [preprint is available on arXiv](https://arxiv.org/abs/2609.23208).
+Diff-NekRS integrates learned corrections with a spectral-element flow solver through differentiable, multi-timestep solver-in-the-loop training. This work connects hybrid-model development with distributed computing on Aurora. The journal manuscript, *Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations* [J1](/publications/#in-preparation-2), is submitted. A [preprint is available on arXiv](https://arxiv.org/abs/2609.23208).
 
 <figure class="research-figure" id="diff-nekrs-workflow">
   <a href="/files/diff-nekrs-workflow.pdf" aria-label="Open the Diff-NekRS workflow as a full-resolution PDF"><img src="/images/diff-nekrs-workflow.png" width="2400" height="1018" loading="lazy" alt="Diff-NekRS workflow: high-order simulation data are projected to low order; neural corrections are trained through a multi-timestep solver rollout and backpropagation, followed by model validation and hybrid CFD–ML inference."></a>
-  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference. Select the diagram to view the full-resolution PDF.</figcaption>
+  <figcaption>Diff-NekRS workflow: differentiable hybrid solver-in-the-loop training over multiple timesteps, followed by model validation and hybrid CFD–ML inference.</figcaption>
 </figure>
 
 For finite-element simulations, I study differentiable weak-form corrections and structure-preserving neural variational correction operators. This direction incorporates learned corrections into the variational formulation to accelerate simulations while retaining their numerical structure. The journal manuscript [M3](/publications/#in-preparation-3), in final preparation, extends the ASME FEDSM 2026 work [C3](/publications/#conference-3).
@@ -39,13 +39,13 @@ Within this broader hybrid physics–ML research program, physics-informed B-spl
 
 [J2](/publications/#pibsr-2026) · **Jung, J.**, Lenz, D., Constantinescu, E., and Peterka, T. (2027). *A physics-informed B-spline reconstruction of flow data.* Computer Methods in Applied Mechanics and Engineering, 463 (Part B), 119436. [Published article](https://doi.org/10.1016/j.cma.2026.119436).
 
-[J1](/publications/#in-preparation-2) · **Jung, J.**, Balin, R., Lusch, B., and Constantinescu, E. (2027). *Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations.* Submitted. [Preprint](https://arxiv.org/abs/2609.23208).
+[J1](/publications/#in-preparation-2) · **Jung, J.**, Balin, R., Lusch, B., and Constantinescu, E. *Diff-NekRS: Differentiable hybrid modeling for spectral-element simulations.* Submitted. [Preprint](https://arxiv.org/abs/2609.23208).
 
-[C2](/publications/#conference-2) · **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing a coarse-grid spectral element solver for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
+[C2](/publications/#conference-2) · **Jung, J.**, Constantinescu, E., Balin, R., and Lusch, B. (2026). *A hybrid physics–machine-learning framework for enhancing coarse-grid spectral element simulations for large-scale computing.* AIAA Aviation Forum, AIAA 2026-4474. [Paper](https://doi.org/10.2514/6.2026-4474)
 
-[C3](/publications/#conference-3) · **Jung, J.**, and Constantinescu, E. (2026). *Learning Differentiable Weak-Form Corrections to Accelerate Finite Element Simulations.* ASME FEDSM. [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
+[C3](/publications/#conference-3) · **Jung, J.**, and Constantinescu, E. (2026). *Learning differentiable weak-form corrections to accelerate finite element simulations.* ASME FEDSM 2026. [Paper (PDF)](https://arxiv.org/pdf/2601.20019).
 
-[C1](/publications/#conference-1) · **Jung, J.**, Balin, R., and Constantinescu, E. (2027). *Agent-Orchestrated Multi-Fidelity Workflow for Stable Hybrid Physics–Machine Learning Simulations.* AIAA SciTech Forum. **Forthcoming.**
+[C1](/publications/#conference-1) · **Jung, J.**, Balin, R., and Constantinescu, E. (2027). *Agent-orchestrated multi-fidelity workflow for stable hybrid physics–machine learning simulations.* AIAA SciTech Forum. **Forthcoming.**
 
 </section>
 
